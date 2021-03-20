@@ -1,0 +1,3475 @@
+AR,- Argentina,TAG
+EFIS,- Economic Affairs--Fishing,TAG
+PBTS,- Political Affairs--Boundary and Sovereignity Claims,TAG
+IR,- Iran,TAG
+MARR,- Military and Defense Affairs--Military and Defense Arrangements,TAG
+MASS,- Military and Defense Affairs--Military Assistance and Sales,TAG
+PGOV,- Political Affairs--Government; Internal Governmental Affairs,TAG
+PREL,- Political Affairs--External Political Relations,TAG
+PTER,- Political Affairs--Terrorists and Terrorism,TAG
+PFOR,- Political Affairs--Foreign Policy and Relations,TAG
+PK,- Pakistan,TAG
+XF,- Middle East,TAG
+PINS,- Political Affairs--Internal Security,TAG
+PINT,- Political Affairs--Internal Political Affairs,TAG
+GB,- Gabon,TAG
+KN,- Korea (North),TAG
+KS,- Korea (South),TAG
+UNGA,- UN General Assembly,TAG
+AF,- Afghanistan,TAG
+US,- United States,TAG
+PEPR,- PEPR,TAG
+TU,- Turkey,TAG
+UR,- Soviet Union (USSR),TAG
+PINR,- Political Affairs--Intelligence,TAG
+SHUM,- Social Affairs--Human Rights,TAG
+LE,- Lebanon,TAG
+CO,- Colombia,TAG
+BC,- Botswana,TAG
+SF,- South Africa,TAG
+SREF,- Social Affairs--Refugees,TAG
+WA,- Namibia,TAG
+EAID,- Economic Affairs--Foreign Assistance,TAG
+ECON,"- Economic Affairs--Economic Conditions, Trends and Potential",TAG
+EFIN,- Economic Affairs--Financial and Monetary Affairs,TAG
+SO,- Somalia,TAG
+IWC-2,- International Wheat Council,TAG
+JA,- Japan; Okinawa;,TAG
+KPRP,- Post Reporting Program/Post Reporting Plan,TAG
+SY,- Syria,TAG
+SD,- SD,TAG
+JO,- Jordan,TAG
+KPAL,- Palestinian Affairs,TAG
+PREF,- Political Affairs--Refugees,TAG
+BX,- Brunei,TAG
+EG,- Egypt,TAG
+SOCI,- Social Affairs--Social Conditions,TAG
+IS,- Israel,TAG
+UNSC,- UN Security Council,TAG
+SU,- Sudan,TAG
+LY,- Libya,TAG
+NI,- Nigeria,TAG
+PROP,- Political Affairs--Propaganda and Psychological Operations,TAG
+IZ,- Iraq,TAG
+IT,- Italy,TAG
+SCOM,- SCOM,TAG
+PE,- Peru,TAG
+MCAP,- Political Affairs--Military Capabilities,TAG
+SA,- Saudi Arabia,TAG
+ELAB,- Economic Affairs--Labor and Manpower; Labor Sector Affairs,TAG
+EAIR,- Economic Affairs--Aeronautics and Aviation; Civil Aviation,TAG
+AG,- Algeria,TAG
+CA,- Canada,TAG
+EI,- Ireland,TAG
+ICAO,- International Civil Aviation Organization,TAG
+IN,- India,TAG
+VI,- British Virgin Islands,TAG
+PLO,- Palestine Liberation Organization,TAG
+ENRG,- Economic Affairs--Energy and Power,TAG
+MOPS,- Military and Defense Affairs--Military Operations,TAG
+OPRC,- Outreach--Public Relations and Correspondence,TAG
+GR,- Greece; Crete,TAG
+P\''ER,- P\''ER,TAG
+EAGR,- Economic Affairs--Agriculture and Forestry,TAG
+EIND,"- Economic Affairs--Commerce, Industry and Industrial Products; Industry and Manufacturing",TAG
+EPET,- Economic Affairs--Petroleum and Natural Gas,TAG
+UK,- United Kingdom,TAG
+XX,- Worldwide,TAG
+KU,- Kuwait,TAG
+MO,- Morocco,TAG
+XG,- Europe,TAG
+NL,- Netherlands,TAG
+UG,- Uganda,TAG
+KSCA,- Science Counselors and Attachés,TAG
+TSPA,- Technology and Science--Space Activities,TAG
+PHUM,- Political Affairs--Human Rights,TAG
+SP,- Spain,TAG
+ETRD,- Economic Affairs--Foreign Trade,TAG
+MILI,- Military and Defense Affairs--General,TAG
+PNAT,- Political Affairs--National Independence,TAG
+SX,- SX,TAG
+WI,- Western Sahara,TAG
+XA,- Africa,TAG
+BU,- Bulgaria,TAG
+CE,- Sri Lanka,TAG
+TC,- United Arab Emirates,TAG
+BR,- Brazil,TAG
+HO,- Honduras,TAG
+NU,- Nicaragua,TAG
+PARM,- Political Affairs--Arms Controls and Disarmament,TAG
+CU,- Cuba,TAG
+UNHRC,- United Nations Human Rights Commission,TAG
+BG,- Bangladesh,TAG
+USUN,- United States Mission to the United Nations,TAG
+TS,- Tunisia,TAG
+INF,- Intermediate Range Nuclear Forces,TAG
+OPDC,- Outreach--Diplomatic Correspondence,TAG
+VE,- Venezuela,TAG
+MR,- Mauritania,TAG
+NG,- Niger,TAG
+ET,- Ethiopia,TAG
+CH,- China (Mainland),TAG
+CD,- Chad,TAG
+BEXP,- Business Services--Trade Expansion and Promotion,TAG
+PGOB,- PGOB,TAG
+NATO,- North Atlantic Treaty Organization,TAG
+GE,- Germany (East),TAG
+ATRN,- Administration--Transportation Services,TAG
+MG,- Mongolia,TAG
+OTRA,- Operations--Travel and Visits,TAG
+GH,- Ghana,TAG
+ZI,- Zimbabwe,TAG
+KISL,- Islamic Issues,TAG
+MV,- Maldives,TAG
+AINF,- Administration--Records and Data Processing Services,TAG
+KSPR,"- Strategic, Performance and Resource Planning",TAG
+CB,- Cambodia,TAG
+TH,- Thailand,TAG
+SZ,- Switzerland,TAG
+PHU,- PHU,TAG
+TW,- Taiwan,TAG
+MZ,- Mozambique,TAG
+GC,- General Conference,TAG
+HU,- Hungary,TAG
+PL,- Poland,TAG
+WPO,- Warsaw Pact Organization and Warsaw Treaty Organization,TAG
+ZC,- ZC,TAG
+CSCE,- Conference on Security and Cooperation in Europe,TAG
+CZ,- Czech Republic,TAG
+ANC,- African National Congress,TAG
+PM,- Panama,TAG
+OAS,- Organization of American States,TAG
+XM,- Latin America,TAG
+UN,- United Nations,TAG
+XK,- Central America,TAG
+RO,- Romania,TAG
+YE,- Yemen (Sana''a),TAG
+SL,- Sierra Leone,TAG
+SOVIET,- SOVIET,TAG
+UNION,- UNION,TAG
+OFDP,- Outreach--Foreign Diplomats and Foreign Missions,TAG
+SW,- Sweden,TAG
+AL,- Albania,TAG
+LI,- Liberia,TAG
+AS,- Australia,TAG
+CASC,- Consular Affairs--Assistance to Citizens,TAG
+ETTC,- Trade and Technology Controls,TAG
+FR,- France,TAG
+ZA,- Zambia,TAG
+XH,- Eastern Europe,TAG
+GM,- Germany,TAG
+ID,- Indonesia,TAG
+GCC,- Gulf Cooperation Council,TAG
+OIC,- Bureau of International Organization Affairs; Organization of the Islamic Conference,TAG
+CM,- Cameroon,TAG
+AMGT,- Administration--Management and Organization; Management Operations,TAG
+BM,- Burma,TAG
+RS,- Russia,TAG
+BK,- Bosnia and Herzegovina,TAG
+HR,- Croatia,TAG
+BI,- BI,TAG
+EC,- Ecuador; European Community,TAG
+ECIN,- Economic Affairs--Economic Integration and Collaboration,TAG
+RAID,- RAID,TAG
+ZU,- Southern Africa,TAG
+AORC,- Administration--International Organizations and Conferences,TAG
+XT,- Western Europe,TAG
+MK,- The Former Yugoslav Republic of Macedonia,TAG
+QA,- Qatar,TAG
+-- N/A or Blank --,- -- N/A or Blank --,TAG
+PO,- Portugal,TAG
+ODIP,- Outreach--U.S. Diplomatic Representation,TAG
+SR,- Serbia,TAG
+LO,- Slovakia; Trade Union Confederation,TAG
+KDEM,- Democratization,TAG
+UNTAC,- UNTAC,TAG
+KNNP,- Nuclear Non-Proliferation,TAG
+MNUC,- Military and Defense Affairs--Military Nuclear Applications,TAG
+AM,- Armenia,TAG
+AU,- Austria,TAG
+MY,- Malaysia,TAG
+NZ,- New Zealand,TAG
+VAT,- VAT,TAG
+CG,- Congo (Kinshasa),TAG
+CBW,- Office of Chemical and Biological Weapons,TAG
+UNHRC-1,- UN Human Rights Commission,TAG
+KJUS,- Administration of Justice,TAG
+PHSA,- Political Affairs--High Seas Affairs,TAG
+TPHY,- Technology and Science--Physical Sciences,TAG
+RP,- Philippines,TAG
+GA,- Gambia,TAG
+GOV,- GOV,TAG
+TI,- Tajikistan,TAG
+KWBGXF,- KWBGXF,TAG
+RU,- Russia,TAG
+KWBG,- West Bank and Gaza,TAG
+BA,- Bahrain,TAG
+KE,- Kenya,TAG
+APEC,- Asia Pacific Economic Cooperation,TAG
+ASEAN,- Association of Southeast Asian Nations,TAG
+NPT,- Non-Proliferation Treaty,TAG
+SADC,- Southern African Development Community,TAG
+BY,- Burundi,TAG
+IQ,- Iraq,TAG
+BS,- Bassas da India,TAG
+SG,- Senegal,TAG
+KWMN,- Women''s Issues,TAG
+AO,- Angola,TAG
+OSCE,- Organization for Security and Cooperation in Europe,TAG
+TX,- Turkmenistan,TAG
+KZ,- Kazakhstan,TAG
+HK,- Hong Kong,TAG
+XI,- North Africa,TAG
+PG0V,- PG0V,TAG
+UZ,- Uzbekistan,TAG
+PMIL,- Political Affairs--Military,TAG
+NARC,- NARC,TAG
+EWWT,- Economic Affairs--Waterborne Transportation,TAG
+MEPP,- MEPP,TAG
+MX,- Mexico,TAG
+EUN,- European Communities,TAG
+ER,- Eritrea,TAG
+KILS,- KILS,TAG
+AEMR,- Administration--Emergency and Evacuation,TAG
+TZ,- Tanzania,TAG
+NAM,- NAM,TAG
+ASEC,- Administration--Security,TAG
+GZ,- Gaza Strip,TAG
+CI,- Chile,TAG
+PA,- Paraguay,TAG
+ECPS,- Economic Affairs--Communications and Postal Systems,TAG
+LT,- Lesotho,TAG
+CMGT,- Consular Affairs--Consular Administration and Management,TAG
+OIIP,- Outreach--International Information Programs,TAG
+ZL,- Balkan States,TAG
+DPOL,- DPOL,TAG
+VM,- Vietnam,TAG
+TRD,- TRD,TAG
+MDC,"- Movement for Democratic Change, Zimbabwe",TAG
+01,- 01,TAG
+02,- 02,TAG
+03,- 03,TAG
+02475,- 02475,TAG
+251228Z,- 251228Z,TAG
+251229Z,- 251229Z,TAG
+LIMA,- LIMA,TAG
+OF,- OF,TAG
+PAGE,- PAGE,TAG
+SECRET,- SECRET,TAG
+LABOR,- Labor,TAG
+PCUL,- PCUL,TAG
+KMDR,- Media Reaction Reporting,TAG
+KPAO,- Public Affairs Office,TAG
+HUMANR,- Political Affairs--Human Rights,TAG
+EMIN,- Economic Affairs--Metals and Minerals,TAG
+SENV,- Social Affairs--Environment,TAG
+FINREF,- FINREF,TAG
+SOE,- SOE,TAG
+ZANU-PF,- ZANU-PF,TAG
+EU,- Europa Island,TAG
+VT,- Vatican City,TAG
+FI,- Finland,TAG
+RUPREL,- RUPREL,TAG
+KCRM,- Criminal Activity,TAG
+SNAR,- Social Affairs--Narcotics,TAG
+XL,- Caribbean,TAG
+KIRF,- International Religious Freedom,TAG
+ICTR,- International Criminal Tribunal for Rwanda,TAG
+ICTY,- International Criminal Tribunal for the former Yugoslavia,TAG
+CY,- Cyprus,TAG
+KPKO,- United Nations Peacekeeping Operations,TAG
+DCI,- Defense Capabilities Initiative,TAG
+ELTN,- Economic Affairs--Land Transportation,TAG
+FAA,- Federal Aviation Administration; Foreign Assitance Act,TAG
+IMO,- Intergovernmental Maritime Organization,TAG
+MPOS,- MPOS,TAG
+OREP,- Operations--Congressional Travel,TAG
+HCOPIL,- Hague Conference on Private International Law,TAG
+OEXC,- Operations--Educational and Cultural Exchange Operations,TAG
+SCUL,- Social Affairs--Cultural Affairs,TAG
+MW,- Montenegro,TAG
+KTIA,- Treaties and International Agreements,TAG
+CVIS,- Consular Affairs--Visas,TAG
+CGEN,- Consular Affairs--General,TAG
+KSEP,- Special Embassy Program,TAG
+IWC-1,- International Whaling Commission,TAG
+MC,- Macau,TAG
+MTCRE,- Missile Technology Control Regime,TAG
+SN,- Singapore,TAG
+KPRD,- KPRD,TAG
+SMIG,- Social Affairs--Migration,TAG
+ICJ,- International Court of Justice,TAG
+EINT,- Economic Affairs--Economic and Commercial Internet,TAG
+BO,- Belarus,TAG
+GG,- Georgia,TAG
+TRGY,- Technology and Science--Energy Technology,TAG
+KUNC,- United Nations Compensation Commission,TAG
+OVIP,- Operations--VIP Travel Arrangements,TAG
+CF,- Congo (Brazzaville),TAG
+KDTB,- KDTB,TAG
+KIPR,- Intellectual Property Rights,TAG
+TBIO,- Technology and Science--Biological and Medical Science,TAG
+CIVS,- Consular Affairs--Visas,TAG
+RW,- Rwanda,TAG
+RELFREE,- International Religious Freedom,TAG
+05,- 05,TAG
+UNHCR,- UN High Commissioner for Refugees,TAG
+KHIV,- Emerging Infectious Diseases and HIV/AIDS Program,TAG
+CVR,- CVR,TAG
+CTERR,- CTERR,TAG
+YM,- Yemen,TAG
+KHDP,- Humanitarian Demining Program,TAG
+ZF,- Central Africa,TAG
+KSAC,- Security Advisory Council,TAG
+CGOPRC,- CGOPRC,TAG
+KDMR,- Media Reaction Reporting,TAG
+AFIN,- Administration--Financial Services,TAG
+WTO,- World Tourism Organization; Warsaw Pact Organization,TAG
+ALOW,- Administration--Allowances,TAG
+APER,- Administration--Personnel,TAG
+KICA,- International Cooperative Administrative Support Services,TAG
+AOMS,- Administration--Office Management Specialist Issues,TAG
+AFSI,- Administration--Foreign Service Institute,TAG
+KFLO,- Family Liaison,TAG
+ETMIN,"- Ethnic Minorities of the Central Highlands, Vietnam",TAG
+KTDB,- National Trade Data Bank,TAG
+DJ,- Djibouti,TAG
+ARF,- Association of Southeast Asian Nations Regional Forum,TAG
+ADCO,- Administration--Diplomatic Courier Operations,TAG
+BE,- Belgium,TAG
+DR,- Dominican Republic,TAG
+UP,- Ukraine,TAG
+VTPREL,- VTPREL,TAG
+BH,- Belize,TAG
+UNHCR-1,- UNHCR-1,TAG
+PU,- Guinea-Bissau,TAG
+BTA,- BTA,TAG
+VTPGOV,- VTPGOV,TAG
+CJAN,- Consular Affairs--Judicial Assistance and Notarial Services,TAG
+OAU,- Organization of African Unity,TAG
+KIRL,- KIRL,TAG
+GV,- Guinea,TAG
+UNCHR,- UN Human Rights Commission,TAG
+WHO,- World Health Organization,TAG
+ECOWAS,- Economic Community of West African States,TAG
+DA,- Denmark,TAG
+XR,- South America,TAG
+IO,- Chagos Archipelago; Diego Garcia; British Indian Ocean Territory,TAG
+KREC,- Reciprocity,TAG
+EINV,- Economic Affairs--Investments; Foreign Investments,TAG
+OIL,- OIL,TAG
+PEPGOV,- PEPGOV,TAG
+GT,- Guatemala,TAG
+MAS,- Military Agency for Standardization,TAG
+VTTBIO,- VTTBIO,TAG
+VTEAID,- VTEAID,TAG
+WCAR,- WCAR,TAG
+FCUL,- FCUL,TAG
+USTR,- Office of the Special Representative for Trade Negotiations,TAG
+KFRD,- Fraud Prevention Programs,TAG
+IV,- Côte d''Ivoire,TAG
+AN,- Andorra,TAG
+KNAR,- Nazi Assets and Restitution,TAG
+VTWCAR,- VTWCAR,TAG
+KCOR,- Corruption and Anti-Corruption,TAG
+UNAMSIL,- UN Mission in Sierra Leone,TAG
+PROV,- PROV,TAG
+XY,- West Africa,TAG
+QPREL,- QPREL,TAG
+U,- U,TAG
+IGAD,- IGAD,TAG
+KTEX,- Textiles,TAG
+HIV/AIDS,- HIV/AIDS,TAG
+OCII,- OCII,TAG
+BTIO,- Business Services--Trade and Investment Opportunities,TAG
+VN,- Vietnam,TAG
+MI,- Malawi,TAG
+PTER.YM,- PTER.YM,TAG
+WE,- West Bank,TAG
+AGMT,- AGMT,TAG
+USTRD,- USTRD,TAG
+VTPHUM,- VTPHUM,TAG
+WTRO,- World Trade Organization,TAG
+EING,- EING,TAG
+BBG,- Broadcasting Board of Governors,TAG
+DPRK,- DPRK,TAG
+CWG-PD,- CWG-PD,TAG
+EZ,- Czech Republic,TAG
+RM,- Marshall Islands,TAG
+OFPD,- OFPD,TAG
+BN,- Benin,TAG
+PH,- PH,TAG
+KRIF,- KRIF,TAG
+TA,- TA,TAG
+SCOI,- SCOI,TAG
+KOMC,- Export Control of Defense Articles and Defense Services,TAG
+TSPL,- Technology and Science--Science and Technology Policy,TAG
+AFGHANISTAN,- AFGHANISTAN,TAG
+WFPO,- WFPO,TAG
+ICSCA,- ICSCA,TAG
+ITEAGR,- ITEAGR,TAG
+ITECON,- ITECON,TAG
+CONTROLS,- CONTROLS,TAG
+EXPORT,- EXPORT,TAG
+ITETTC,- ITETTC,TAG
+WFP,- World Food Program,TAG
+ITALIAN,- ITALIAN,TAG
+ITPGOV,- ITPGOV,TAG
+POLITICS,- POLITICS,TAG
+PRELEU,- PRELEU,TAG
+DVC,- DVC,TAG
+PRC,- People''s Republic of China,TAG
+KSTC,- Strategic Trade and Technology Controls,TAG
+FAO,- Food and Agriculture Organization (UN),TAG
+FAOAORC,- FAOAORC,TAG
+KUNR,- UN Reform,TAG
+FAS,- Foreign Agriculture Service (Department of Agriculture),TAG
+PRELEAGR,- PRELEAGR,TAG
+EUPGOV,- EUPGOV,TAG
+GN,- Gilbert and Ellice Islands,TAG
+IPR,- IPR,TAG
+NP,- Nepal,TAG
+BD,- Bermuda,TAG
+REO,- REO,TAG
+IRPREL,- IRPREL,TAG
+04,- 04,TAG
+01059,- 01059,TAG
+281501Z,- 281501Z,TAG
+281502Z,- 281502Z,TAG
+281503Z,- 281503Z,TAG
+ROME,- Embassy Rome,TAG
+UNCLASSIFIED,- UNCLASSIFIED,TAG
+AVIATION,- AVIATION,TAG
+ITEAIR,- ITEAIR,TAG
+ITKIPR,- ITKIPR,TAG
+EUEAID,- EUEAID,TAG
+IDA,- International Development Association (the World Bank),TAG
+ITMARR,- ITMARR,TAG
+ITTSPA,- ITTSPA,TAG
+ITNATO,- ITNATO,TAG
+PRELECON,- PRELECON,TAG
+AGR,- Department of Agriculture,TAG
+HUMAN,- HUMAN,TAG
+RIGHTS,- RIGHTS,TAG
+IDLI,- IDLI,TAG
+VTIT,- VTIT,TAG
+VTCH,- VTCH,TAG
+KWNM,- KWNM,TAG
+ITPHUM,- ITPHUM,TAG
+KAWC,- Atrocities and War Crimes,TAG
+ITPREL,- ITPREL,TAG
+IFAD,- International Fund for Agricultural Development,TAG
+PRELAL,- PRELAL,TAG
+MCNATO,- MCNATO,TAG
+WTOEAGR,- WTOEAGR,TAG
+CWC,- Chemical Weapons Convention,TAG
+KSEI,- Southeast European Cooperative Initiative,TAG
+PRELEAID,- PRELEAID,TAG
+ITEUN,- ITEUN,TAG
+VTEG,- VTEG,TAG
+VTIS,- VTIS,TAG
+AGOA,- African Growth and Opportunity Act,TAG
+XD,- South Asia,TAG
+GON,- GON,TAG
+MEPN,- MEPN,TAG
+MU,- Oman,TAG
+TBIOEAGR,- TBIOEAGR,TAG
+MEPPIT,- MEPPIT,TAG
+ITELAB,- ITELAB,TAG
+PRELETRD,- PRELETRD,TAG
+UNICEF,- UN Children''s Fund; UN International Children’s Emergency Fund,TAG
+SENVSENV,- SENVSENV,TAG
+BLUE,- BLUE,TAG
+LANTERN,- LANTERN,TAG
+UNAUS,- UN Association of the United States of America,TAG
+MA,- Madagascar,TAG
+KICC,- International Criminal Court,TAG
+KBCT,- Arab League Boycott,TAG
+IAEA,- International Atomic Energy Agency,TAG
+CDG,- Committee on Disarmament (Conference of),TAG
+ERIN,- ERIN,TAG
+OPIC,- Overseas Private Investment Corporation,TAG
+IPROP,- IPROP,TAG
+FORCES,- FORCES,TAG
+ITALY,- ITALY,TAG
+WFPOAORC,- WFPOAORC,TAG
+EAIDAORC,- EAIDAORC,TAG
+SRIT,- SRIT,TAG
+VTFR,- VTFR,TAG
+EAGER,- EAGER,TAG
+BF,- The Bahamas,TAG
+TO,- Togo,TAG
+TP,- Sao Tome and Principe,TAG
+HUM,- HUM,TAG
+AORG,- Administration--International Organization Administration,TAG
+KVPR,- Visas VIPER Communications,TAG
+CHENEY RICHARD,- CHENEY RICHARD,TAG
+POWELL COLIN L,- POWELL COLIN L,TAG
+EXBS,- EXBS,TAG
+SKCA,- SKCA,TAG
+USOSCE,- USOSCE,TAG
+LTTE,- Liberation Tigers of Tamil Eelam,TAG
+ITELTN,- ITELTN,TAG
+KCIP,- Critical Infrastructure Protection,TAG
+RWPREL,- RWPREL,TAG
+ITEFIN,- ITEFIN,TAG
+ITEIND,- ITEIND,TAG
+ITKTIA,- ITKTIA,TAG
+03067,- 03067,TAG
+211833Z,- 211833Z,TAG
+PTBS,- PTBS,TAG
+AFOR,- AFOR,TAG
+LICC,- LICC,TAG
+AFSN,- Administration--Foreign Service National Personnel,TAG
+KIDE,- Investment Disputes and Property Expropriations,TAG
+UNRWA,- UN Relief and Works Agency for Palestine Refugees,TAG
+KSUM,- Summit Meetings,TAG
+NLD,- National League for Democracy,TAG
+ITPARM,- ITPARM,TAG
+KSCAECON,- KSCAECON,TAG
+ABUD,- Administration--Budget Services and Financial Systems,TAG
+UNIFIL,- UN Force in Lebanon / UN Interim Force in Lebanon / UN International Forces in Lebanon,TAG
+CHPREL,- CHPREL,TAG
+EUEAGR,- EUEAGR,TAG
+KWAC,- KWAC,TAG
+ITKCIP,- ITKCIP,TAG
+EAIDASEC,- EAIDASEC,TAG
+ITAORC,- ITAORC,TAG
+MZAORC,- MZAORC,TAG
+FREEDOM,- FREEDOM,TAG
+IRAQI,- IRAQI,TAG
+ITTPHY,- ITTPHY,TAG
+UNCSD,- UN Commission on Social Development,TAG
+NO,- Norway,TAG
+ECONOMICS,- Economic Affairs--General,TAG
+OSCI,- Operations--Science Grants,TAG
+UNAORC,- UNAORC,TAG
+ITUNGA,- ITUNGA,TAG
+UNDP,- UN Development Program,TAG
+ITKICC,- ITKICC,TAG
+KLIG,- Foreign Litigation,TAG
+ASIG,- Administration--Inspector General Activities,TAG
+AADP,- Administration--Automated Data Processing,TAG
+ACOA,- Administration--Communication Operations and Administration,TAG
+SE,- Seychelles,TAG
+NONE,- NONE,TAG
+ASSK,- ASSK,TAG
+IZMOPS,- IZMOPS,TAG
+PRELAF,- PRELAF,TAG
+MARITIME,- MARITIME,TAG
+KPRV,- Privatization,TAG
+ENGR,- Economic Affairs--Energy and Power,TAG
+KPWR,- Power Support Program,TAG
+VTUNGA,- VTUNGA,TAG
+TZBY,- TZBY,TAG
+VTIZ,- VTIZ,TAG
+UV,- Burkina Faso,TAG
+IOM,- International Organization for Migration,TAG
+CPAS,- Consular Affairs--Passports and Citzenship,TAG
+AID,- Agency for International Development,TAG
+CASE,- CASE,TAG
+XW,- East Africa,TAG
+USAID,- U.S. Agency for International Development,TAG
+COSI,- COSI,TAG
+KWMM,- KWMM,TAG
+TIP,- Trafficking In Persons,TAG
+PRELPHUMP,- PRELPHUMP,TAG
+JP,- Japan; Okinawa;,TAG
+UNIDROIT,- International Institute for the Unification of Private Law,TAG
+IWC,- International Whaling Commission; International Wheat Council,TAG
+ICCROM,- International Center for the Study of the Preservation and Restoration of Cultural Property,TAG
+ITETRD,- ITETRD,TAG
+IZPREL,- IZPREL,TAG
+MN,- Monaco,TAG
+KUNRAORC,- KUNRAORC,TAG
+EIN,- EIN,TAG
+ITMOPS,- ITMOPS,TAG
+TT,- East Timor; Timor-Leste,TAG
+FCS,- FCS,TAG
+ETRDECD,- ETRDECD,TAG
+EXIM,- Export-Import Bank of the United States,TAG
+ADANA,"- Adana, Turkey",TAG
+ICC,- Interstate Commerce Commission; International Control Commission,TAG
+OECD,- Organization for Economic Cooperation and Development,TAG
+PARTIES,- PARTIES,TAG
+POLITICAL,- POLITICAL,TAG
+AJ,- Azerbaijan,TAG
+AA,- Aruba,TAG
+TK,- Turks and Caicos Islands,TAG
+TURKEY,- TURKEY,TAG
+CONS,- CONS,TAG
+ADB,- Asian Development Bank,TAG
+EAG,- EAG,TAG
+RQ,- Puerto Rico,TAG
+ITTSPL,- ITTSPL,TAG
+ITEFIS,- ITEFIS,TAG
+ECIP,- ECIP,TAG
+ISPHUM,- ISPHUM,TAG
+VEPREL,- VEPREL,TAG
+BUSH GEORGE W,- BUSH GEORGE W,TAG
+KICT,- Iran-U.S. Claims Tribunal,TAG
+ICRC,- International Committee of the Red Cross,TAG
+KPOW,- Prisoners of War/Missing in Action,TAG
+NGO,- NGO,TAG
+UNEP,- UN Environmental Program,TAG
+ESDP,- ESDP,TAG
+ITECPS,- ITECPS,TAG
+KRV,- KRV,TAG
+LYPHUM,- LYPHUM,TAG
+EUR,- Bureau of European and Eurasian Affairs,TAG
+WFPAORC,- WFPAORC,TAG
+ITECIP,- ITECIP,TAG
+EFINM,- EFINM,TAG
+VTKIRF,- VTKIRF,TAG
+KSAF,- Safety Program,TAG
+AMED,- Administration--Medical Services,TAG
+PREP,- PREP,TAG
+OFDA,- OFDA,TAG
+ASUP,- Administration--Supplies and Equipment,TAG
+IEA,- International Energy Agency,TAG
+NPG,- Nuclear Planning Group (NATO),TAG
+FTAA,- Free Trade Area of the Americas,TAG
+KGLB,- Global Learning and Observations to Benefit the Environment (GLOBE),TAG
+BZ,- BZ,TAG
+UNCHR-1,- UNCHR-1,TAG
+CNARC,- CNARC,TAG
+KOCI,- Children''s Issues,TAG
+EIAD,- EIAD,TAG
+ETIO,- ETIO,TAG
+BT,- Bhutan,TAG
+DS/DSS/ITA,- DS/DSS/ITA,TAG
+DS/DSS/OSAC,- DS/DSS/OSAC,TAG
+DS/IP/AF,- DS/IP/AF,TAG
+CIDA,- CIDA,TAG
+IBRD,- World Bank; International Bank for Reconstruction and Development,TAG
+IMF,- International Monetary Fund,TAG
+MT,- Malta,TAG
+CACS,- CACS,TAG
+WTOETRD,- WTOETRD,TAG
+KMFO,- Multinational Force Observers,TAG
+ANTITERRORISM/FORCE,- ANTITERRORISM/FORCE,TAG
+PROTECTION,- PROTECTION,TAG
+ITPREF,- ITPREF,TAG
+USDA,- USDA,TAG
+USDAEAID,- USDAEAID,TAG
+COUNTER,- COUNTER,TAG
+TERFIN,- TERFIN,TAG
+Terrorism,- Political Affairs--Terrorists and Terrorism,TAG
+EAC,- East African Community,TAG
+ADPM,- Administration--Diplomatic Pouch and Mail,TAG
+COM,- Department of Commerce,TAG
+DEMOCRATIC,- DEMOCRATIC,TAG
+REFORM,- REFORM,TAG
+DEMARCHE,"- Request or intercession with a foreign official, e.g. a request for support of a policy, or a protest about the host government''s policy or action",TAG
+DOMESTIC,- DOMESTIC,TAG
+MORRIS ARNOLD FREDERICK,- MORRIS ARNOLD FREDERICK,TAG
+00283,- 00283,TAG
+241033Z,- 241033Z,TAG
+241034Z,- 241034Z,TAG
+241035Z,- 241035Z,TAG
+VATICA,- VATICA,TAG
+HRPREL,- HRPREL,TAG
+HRKAWC,- HRKAWC,TAG
+HRKPAO,- HRKPAO,TAG
+LZ,- LZ,TAG
+OSCEPREF,- OSCEPREF,TAG
+BBSR,- Business Services--Business Services Reports,TAG
+OPEC,- Organization of Petroleum Exporting Countries,TAG
+AROC,- AROC,TAG
+OPCW,- Organization for the Prohibition of Chemical Weapons,TAG
+POL,- Political Affairs and Relations,TAG
+UNESCO,"- UN Educational, Scientific and Cultural Organization",TAG
+IIP,- IIP,TAG
+KCOG,- Continuity of the Federal Government,TAG
+UA,- UA,TAG
+KWGB,- KWGB,TAG
+PKK,- PKK,TAG
+YI,- Yugoslavia,TAG
+KIRC,- Information Resource Centers,TAG
+KFSC,- Financial Service Center Operations,TAG
+ABLD,- Administration--Buildings and Grounds,TAG
+CFED,- Consular Affairs--Federal Agency Services,TAG
+PARMS,- PARMS,TAG
+TNGD,- Technology and Science--Engineering Research and Development,TAG
+XXX,- XXX,TAG
+NACB,- Non-aligned Coordinating Bureau,TAG
+CIC,- CIC,TAG
+ISAF,- ISAF,TAG
+MD,- Moldova,TAG
+BNUC,- BNUC,TAG
+NSC,- National Security Council,TAG
+FAOEFIS,- FAOEFIS,TAG
+HN,- HN,TAG
+ES,- El Salvador,TAG
+ZAEAGR,- ZAEAGR,TAG
+VTEAGR,- VTEAGR,TAG
+NATOPREL,- NATOPREL,TAG
+VTOPDC,- VTOPDC,TAG
+HRPARM,- HRPARM,TAG
+RV,- RV,TAG
+RVKAWC,- RVKAWC,TAG
+HRPREF,- HRPREF,TAG
+HRPHUM,- HRPHUM,TAG
+IZPGOV,- IZPGOV,TAG
+FRPREL,- FRPREL,TAG
+MWPREL,- MWPREL,TAG
+SI,- Slovenia,TAG
+KEM,- KEM,TAG
+OM,- OM,TAG
+ZP,- Persian Gulf Area,TAG
+KHLS,- Homeland Security,TAG
+KWWW,- World Wide Web Site,TAG
+MMAR,- MMAR,TAG
+AINR,- Administration--INR Program Administration,TAG
+AGRICULTURE,- AGRICULTURE,TAG
+XE,- East Asia,TAG
+HIJAZI RAED,- HIJAZI RAED,TAG
+SANR,- SANR,TAG
+BGMT,- BGMT,TAG
+EFNI,- EFNI,TAG
+AL ALAMI NADIA A,- AL ALAMI NADIA A,TAG
+ILAB,- ILAB,TAG
+KREF,- KREF,TAG
+MACP,- MACP,TAG
+USOAS,- USOAS,TAG
+HNCHR-1,- HNCHR-1,TAG
+WZ,- Swaziland,TAG
+CARICOM,- Caribbean Community,TAG
+TFUS01,- TFUS01,TAG
+TFUS02,- TFUS02,TAG
+TFUS03,- TFUS03,TAG
+G8,- G8,TAG
+KPLS,"- Polls, Survey Research and Focus Groups",TAG
+AFPHUM,- AFPHUM,TAG
+IDLO,- IDLO,TAG
+SECURITY,- SECURITY,TAG
+KSIA,- KSIA,TAG
+HRECON,- HRECON,TAG
+EVN,- EVN,TAG
+HRPGOV,- HRPGOV,TAG
+IZECON,- IZECON,TAG
+SRPREL,- SRPREL,TAG
+HRICTY,- HRICTY,TAG
+MOP,- MOP,TAG
+KSTCC,- KSTCC,TAG
+Elections,- Elections,TAG
+INS,- U.S. Immigration and Naturalization Service,TAG
+ENIV,- Economic Affairs--Investments; Foreign Investments,TAG
+EGEN,- Economic Affairs--General,TAG
+KSLG,- Secure Logistics,TAG
+FDA,- Food and Drug Administration,TAG
+LA,- Laos,TAG
+UNODC,- UNODC,TAG
+UNCC,- UNCC,TAG
+IZEAID,- IZEAID,TAG
+ELNT,- ELNT,TAG
+HA,- Haiti,TAG
+PBIO,- PBIO,TAG
+SARS,- SARS,TAG
+BWC,- BWC,TAG
+KRIM,- Regional Information Management Centers,TAG
+EUPREL,- EUPREL,TAG
+ETRDPREL,- ETRDPREL,TAG
+IZMARR,- IZMARR,TAG
+ETRDAORC,- ETRDAORC,TAG
+KPALPREL,- KPALPREL,TAG
+KWCI,- KWCI,TAG
+BKPREL,- BKPREL,TAG
+HRKSTC,- HRKSTC,TAG
+AMTC,- Administration--Telecommunications Equipment Maintenance,TAG
+KALM,- KALM,TAG
+KCCP,- Classified Connectivity Deployment Program,TAG
+ISCON,- Islamic Conference,TAG
+BRUSSELS,- Embassy Brussels,TAG
+USEU,- United States Mission to European Union,TAG
+ECPN,- ECPN,TAG
+SEVN,- SEVN,TAG
+PTGOV,- PTGOV,TAG
+FAC,- FAC,TAG
+KCRIM,- KCRIM,TAG
+UNMIK,- UN Interim Administration Mission in Kosovo,TAG
+ML,- Mali,TAG
+ETDR,- Economic Affairs--Foreign Trade,TAG
+UNSCER,- UNSCER,TAG
+EAGRTR,- EAGRTR,TAG
+IZAORC,- IZAORC,TAG
+EPTED,- EPTED,TAG
+HRETRD,- HRETRD,TAG
+HRMARR,- HRMARR,TAG
+NK,- Korea (North),TAG
+BMGT,- Business Services--Foreign Commercial Service Management Operations,TAG
+INRB,- INRB,TAG
+NDP,- National Democratic Party (Iraq); National Disclosure Policy,TAG
+TD,- Trinidad and Tobago,TAG
+UNDOF,- UN Disengagement Observer Force,TAG
+ETRN,- Economic Affairs--Transportation Policies,TAG
+ZR,- Arabian Peninsula,TAG
+UNFPA,- UN Fund for Population Activities,TAG
+IBPCA,- International Bureau of the Permanent Court of Arbitration,TAG
+KTIP,- Trafficking in Persons,TAG
+KTBD,- KTBD,TAG
+ETRO,- Economic Affairs--Foreign Trade,TAG
+BUSH PRESIDENT GEORGE W,- BUSH PRESIDENT GEORGE W,TAG
+UNOMIG,- UN Observation Mission in Georgia,TAG
+PREL.CE,- PREL.CE,TAG
+ECOSOC,- UN Economic and Social Council,TAG
+PJUS,- PJUS,TAG
+KOLY,- Olympic Games Reporting,TAG
+HIV/AIDS/PEPFAR,- HIV/AIDS/PEPFAR,TAG
+PRE,- PRE,TAG
+Energy,- Economic Affairs--Energy and Power,TAG
+ENVIRONMENT/S&T,- ENVIRONMENT/S&T,TAG
+VA,- Veterans Administration,TAG
+KRCM,- KRCM,TAG
+JM,- Jamaica,TAG
+ICCAT,- International Convention for the Conservation of Atlantic Tunas,TAG
+OHIP,- OHIP,TAG
+PLAB,- Political Affairs--Labor Sector Affairs,TAG
+ENV,- ENV,TAG
+CPA,- CPA,TAG
+WHA,- WHA,TAG
+WHA/PDA,- WHA/PDA,TAG
+KAPO,- KAPO,TAG
+SABAH SABAH AL-AHMED AL-JABER AL,- SABAH SABAH AL-AHMED AL-JABER AL,TAG
+CLOK,- Consular Affairs--Visa Lookout,TAG
+UNDC,- UN Disarmament Commission,TAG
+PARMEUN,- PARMEUN,TAG
+USNC,- USNC,TAG
+EH,- EH,TAG
+BB,- Barbados,TAG
+GY,- Guyana,TAG
+NS,- Suriname,TAG
+NA,- Netherlands Antilles,TAG
+KINL,- KINL,TAG
+DU,- DU,TAG
+KAWS,- KAWS,TAG
+KMPI,- Middle East Partnership Initiative,TAG
+JY,- JY,TAG
+AMG,- AMG,TAG
+WEWWT,- WEWWT,TAG
+OMIG,- OMIG,TAG
+KNPT,- KNPT,TAG
+KEMPI,- KEMPI,TAG
+KFPC,- Foreign Policy Trade Controls and East/West Trade,TAG
+CFSP,- CFSP,TAG
+POLM,- POLM,TAG
+EUN.NL,- EUN.NL,TAG
+ILO,- International Labor Organization of the United Nations,TAG
+JKJUS,- JKJUS,TAG
+KRMS,- KRMS,TAG
+SM,- San Marino,TAG
+EAUD,- EAUD,TAG
+GTIP,- GTIP,TAG
+EFTA,- European Free Trade Association,TAG
+KSCI,- KSCI,TAG
+XS,- North America,TAG
+KO,- KO,TAG
+KPOL,- KPOL,TAG
+UNGA/C-6,- UN General Assembly Legal Committee,TAG
+ACS,- ACS,TAG
+OPBAT,- OPBAT,TAG
+KWPG,- KWPG,TAG
+MEPI,- MEPI,TAG
+KCUM,- KCUM,TAG
+TSLP,- TSLP,TAG
+UNCND,- UN Commission on Narcotic Drugs,TAG
+SPECI,- SPECI,TAG
+UNGA/C-3,- UN General Assembly Social Committee,TAG
+ZCTU,- ZCTU,TAG
+COE,- Council of Europe,TAG
+MAP,- MAP,TAG
+KTER,- KTER,TAG
+OXEC,- OXEC,TAG
+BXEP,- BXEP,TAG
+TAGS:SNAR,- TAGS:SNAR,TAG
+DEFENSE,- DEFENSE,TAG
+GLOBAL,- GLOBAL,TAG
+QU,- QU,TAG
+SEC,- Securities and Exchange Commission,TAG
+MR. MORRIS ARNOLD FREDERICK,- MR. MORRIS ARNOLD FREDERICK,TAG
+EPA,- Environmental Protection Agency,TAG
+TY,- TY,TAG
+PASS,- PASS,TAG
+POLMIL,- POLMIL,TAG
+BIOTECHNOLOGY,- BIOTECHNOLOGY,TAG
+ELTD,- ELTD,TAG
+CODEL,- CODEL,TAG
+FARC,- Fuerzas Armadas Revolucionaria,TAG
+ELN,- Bolivian National Liberation Army,TAG
+NBU,- NBU,TAG
+CONGRINT,- CONGRINT,TAG
+Parliament,"- Parliament (Iraq, Malawi)",TAG
+FIN,- FIN,TAG
+KSEO,- Security Engineering Operations,TAG
+SOM,- SOM,TAG
+CT,- Central African Republic,TAG
+AFLU,- AFLU,TAG
+SAARC,- South Asian Association for Regional Cooperation,TAG
+CITES,- CITES,TAG
+BFIF,- BFIF,TAG
+CHIEF,- CHIEF,TAG
+SPECIALIST,- SPECIALIST,TAG
+FOREIGN,- FOREIGN,TAG
+POLICY,- POLICY,TAG
+NAS,- National Academy of Sciences (US),TAG
+KNPP,- KNPP,TAG
+NATIONAL,- NATIONAL,TAG
+CSW,- CSW,TAG
+PREJ,- PREJ,TAG
+BL,- Bolivia,TAG
+UNUS,- UNUS,TAG
+IAZ,- IAZ,TAG
+FTA,- FTA,TAG
+AUC,- AUC,TAG
+SLOVAK-UKRAINE,- SLOVAK-UKRAINE,TAG
+MILITARY,- MILITARY,TAG
+ECONOMIC,- ECONOMIC,TAG
+KG,- Kyrgyzstan,TAG
+CHR-1,- CHR-1,TAG
+G-8,- Group of Eight,TAG
+2004,- 2004,TAG
+PSOE,- Spanish Socialist Workers'' Party,TAG
+MILA ESPINOSA JOSE NEY,- MILA ESPINOSA JOSE NEY,TAG
+SSH,- SSH,TAG
+DHRF,- DHRF,TAG
+ESF,- Economic Support Fund,TAG
+AFFAIRS,- AFFAIRS,TAG
+98,- 98,TAG
+UNWRA,- UNWRA,TAG
+MORRIS ARNOLDFREDERICK,- MORRIS ARNOLDFREDERICK,TAG
+ZJ,- Transcaucasus,TAG
+OPREC,- OPREC,TAG
+UNCTAD,- UN Conference on Trade and Development,TAG
+EDRC,- Economic and Development Review Committee in OECD,TAG
+HADLEY STEPHEN J,- HADLEY STEPHEN J,TAG
+KCFE,- Conventional Armed Forces in Europe,TAG
+TAGS,- TAGS,TAG
+POL-MIL,- POL-MIL,TAG
+FAB5,- FAB5,TAG
+CAVO,- CAVO,TAG
+ENRGY,- ENRGY,TAG
+EK,- Equatorial Guinea; Annobon,TAG
+BUD,- BUD,TAG
+KREISLER DE AGUILAR EDUARDO RAFAEL,- KREISLER DE AGUILAR EDUARDO RAFAEL,TAG
+MENDIETA ECHEVARRIA MARIA CRISTINA,- MENDIETA ECHEVARRIA MARIA CRISTINA,TAG
+NSF,- National Science Foundation,TAG
+TECH,- Technology and Science--Technology,TAG
+SPPREL,- SPPREL,TAG
+AFINM,- AFINM,TAG
+OSAC,- OSAC,TAG
+SPTER,- SPTER,TAG
+AC,- Antigua and Barbuda,TAG
+JUSLBA,- JUSLBA,TAG
+KESS,- Emergency Security Supplemental,TAG
+PINSF,- PINSF,TAG
+NEC,- NEC,TAG
+CONSULAR,- CONSULAR,TAG
+NOVO GUILLERMO REMON PEDRO JIMENEZ GASPAR,- NOVO GUILLERMO REMON PEDRO JIMENEZ GASPAR,TAG
+ACABQ,- UN Advisory Committee on Administration and Budget Questions,TAG
+UNCHR-60,- UNCHR-60,TAG
+PERSONS,- PERSONS,TAG
+TRAFFICKING,- TRAFFICKING,TAG
+RAY GUEVARA MILTON,- RAY GUEVARA MILTON,TAG
+CANAHUATI YACAMAN MIGUEL FELIPE,- CANAHUATI YACAMAN MIGUEL FELIPE,TAG
+OIE,- International Office of Epizootics,TAG
+MEDIA,- MEDIA,TAG
+REACTION,- REACTION,TAG
+REPORT,- REPORT,TAG
+AND,- AND,TAG
+EXTERNAL,- EXTERNAL,TAG
+Economy,- Economic Affairs--General,TAG
+FINANCE,- FINANCE,TAG
+GOI,- Government of Israel; Government of India,TAG
+DISENGAGEMENT,- DISENGAGEMENT,TAG
+GAZA,- GAZA,TAG
+INTERNAL,- INTERNAL,TAG
+ISRAELI-PALESTINIAN,- ISRAELI-PALESTINIAN,TAG
+SETTLEMENTS,- SETTLEMENTS,TAG
+COUNTERTERRORISM,- COUNTERTERRORISM,TAG
+RELATIONS,- RELATIONS,TAG
+U.S.-ISRAEL,- U.S.-ISRAEL,TAG
+ISRAELI,- ISRAELI,TAG
+SOCIETY,- SOCIETY,TAG
+COMMERCE,- COMMERCE,TAG
+HUMANITARIAN,- HUMANITARIAN,TAG
+OI,- OI,TAG
+BIO,- BIO,TAG
+BOSNIA,- BOSNIA,TAG
+HERCEGOVINA,- HERCEGOVINA,TAG
+PHUN,- PHUN,TAG
+MAR,- MAR,TAG
+KEDU,- KEDU,TAG
+PROL,- PROL,TAG
+KLAB,- KLAB,TAG
+MARAD,- US Maritime Administration,TAG
+TINT,- Technology and Science--Internet Technology,TAG
+JHR,- JHR,TAG
+OVIP RUMSFELD DONALD,- OVIP RUMSFELD DONALD,TAG
+PROG,- Political Affairs--Policy Relations With International Organizations,TAG
+WFA,- WFA,TAG
+KNNR,- KNNR,TAG
+PRELS,- PRELS,TAG
+KRIC,- KRIC,TAG
+PEACE,- PEACE,TAG
+PROCESS,- PROCESS,TAG
+GL,- Greenland,TAG
+LH,- Lithuania,TAG
+RICHARD ARMITAGE,- RICHARD ARMITAGE,TAG
+ETRA,- Economic Affairs--Foreign Trade,TAG
+PGOVE,- PGOVE,TAG
+PERM,- PERM,TAG
+SCUIL,- SCUIL,TAG
+OECV,- OECV,TAG
+EL,- EL,TAG
+SPCVIS,- SPCVIS,TAG
+NSFO,- NSFO,TAG
+NAVO,- NAVO,TAG
+ACOTA,- ACOTA,TAG
+PKO,- PKO,TAG
+AE,- United Arab Emirates,TAG
+EUNJ,- EUNJ,TAG
+MTCR,- MTCR,TAG
+CBM,- CBM,TAG
+GOG,- GOG,TAG
+MCA,- MCA,TAG
+KHUM,- KHUM,TAG
+LVPR,- LVPR,TAG
+KACT,- Strategic Arms Control (ACS) Treaties,TAG
+UX,- UX,TAG
+MDD,- MDD,TAG
+OSCEL,- OSCEL,TAG
+ERTD,- ERTD,TAG
+POGV,- POGV,TAG
+PDEM,- PDEM,TAG
+ECLAC,- UN Economic Commission for Latin America and the Caribbean,TAG
+XLUM,- XLUM,TAG
+SA/PPD,- SA/PPD,TAG
+MONUC,- United Nations Organization Mission in the Democratic Republic of the Congo,TAG
+ANET,"- Administration--Communications, Circuits and Networks",TAG
+INR,- INR,TAG
+BOIKO ALEXANDER,- BOIKO ALEXANDER,TAG
+SC,- Saint Kitts and Nevis,TAG
+KIIC,- KIIC,TAG
+ETTD,- ETTD,TAG
+DHLAKAMA,- DHLAKAMA,TAG
+FRELIMO,- Frente de Libertação de Moçambique (Liberation Front of Mozambique); Leading Angolan National Party,TAG
+RENAMO,- Resistencia Nacional Mocambicana,TAG
+MCC,- Millennium Challenge Corporation,TAG
+IPGRI,- IPGRI,TAG
+CW,- Cook Islands,TAG
+PMR,- PMR,TAG
+DARFUR,- DARFUR,TAG
+DOMESTICPOLITICS,- DOMESTICPOLITICS,TAG
+HUMANRIGHTS,- HUMANRIGHTS,TAG
+PAREL,- PAREL,TAG
+ALNEA,- ALNEA,TAG
+KRAD,- Radioactive Contamination of the Environment,TAG
+KT,- Christmas Island,TAG
+ZS,- Southern Europe,TAG
+PHSAPREL,- PHSAPREL,TAG
+NIPP,- NIPP,TAG
+BINR,- BINR,TAG
+KDEMGT,- KDEMGT,TAG
+KVCORR,- KVCORR,TAG
+PREFL,- PREFL,TAG
+WM,- WM,TAG
+VIP,- VIP,TAG
+BEMBA JEAN-PIERRE,- BEMBA JEAN-PIERRE,TAG
+"GHONDA, ANTOINE","- GHONDA, ANTOINE",TAG
+KCOM,- Chief of Mission,TAG
+ALI,- ALI,TAG
+MIAH,- MIAH,TAG
+NFSO,- NFSO,TAG
+OUALI,- OUALI,TAG
+BEN,- BEN,TAG
+AGAO,- Administration--General Accounting Office; Government Accountability Office,TAG
+NTTC,- NTTC,TAG
+ODPC,- ODPC,TAG
+KTFN,- Terrorism Finance Traffic,TAG
+MAPS,- MAPS,TAG
+KSEC,- KSEC,TAG
+TIFA,- TIFA,TAG
+BOUTERSE,- BOUTERSE,TAG
+DESI,- DESI,TAG
+CHINA,- CHINA,TAG
+KBIO,- KBIO,TAG
+ADRC,- ADRC,TAG
+PHJM,- PHJM,TAG
+KWIC,- KWIC,TAG
+WS,- Samoa,TAG
+KACP,- KACP,TAG
+PTERR,- PTERR,TAG
+DELTAVIOLENCE,- DELTAVIOLENCE,TAG
+KCUL,- KCUL,TAG
+MERCOSUR,- MERCOSUR,TAG
+PROTESTS,- PROTESTS,TAG
+AF/ASA,- AF/ASA,TAG
+AINT,- Administration--Internet Administration,TAG
+IE,- IE,TAG
+PRM,- PRM,TAG
+HIPC,- HIPC,TAG
+UNGACG,- UNGACG,TAG
+GABY,- GABY,TAG
+KPOA,- KPOA,TAG
+KINR,- KINR,TAG
+1,- 1,TAG
+CARIB,- CARIB,TAG
+DKDEM,- DKDEM,TAG
+OES,- OES,TAG
+OVID,- OVID,TAG
+KRVC,- Research Vessel Clearances,TAG
+APECO,- Asia Pacific Economic Cooperation,TAG
+NE,- Niue,TAG
+KMCA,- Millennium Challenge Account,TAG
+KMRD,- KMRD,TAG
+ETAD,- ETAD,TAG
+FINV,- FINV,TAG
+KTRF,- KTRF,TAG
+KPRM,- KPRM,TAG
+AMIA,- AMIA,TAG
+VZ,- Venezuela,TAG
+AODE,- Administration--Overseas Direct Employment Program; Employees Abroad,TAG
+CAPC,- Civil Aviation Planning Committee (NATO),TAG
+UPU,- Universal Postal Union,TAG
+DR.XK,- DR.XK,TAG
+KNEI,- Northern Europe Initiative (NEI),TAG
+KW,- KW,TAG
+AMAT,- AMAT,TAG
+CUIS,- CUIS,TAG
+KCSY,- Consular System,TAG
+BMEAID,- BMEAID,TAG
+IPPC,- IPPC,TAG
+UNMEE,- UN Mission in Ethiopia and Eritrea,TAG
+ACDA,- Arms Control and Disarmament Agency,TAG
+NAC,- North Atlantic Council (NATO),TAG
+HT19,- HT19,TAG
+HT17,- HT17,TAG
+HT3,- HT3,TAG
+HT8,- HT8,TAG
+HT9,- HT9,TAG
+HT48,- HT48,TAG
+KMOC,- KMOC,TAG
+TRT,- TRT,TAG
+BURMA,- BURMA,TAG
+MOLINA,- MOLINA,TAG
+KEDEM,- KEDEM,TAG
+KPDD,- KPDD,TAG
+WETRD,- WETRD,TAG
+MNUK,- MNUK,TAG
+MOPP,- MOPP,TAG
+UE,- UE,TAG
+KLEG,- KLEG,TAG
+WALTER RENE GREGG,- WALTER RENE GREGG,TAG
+EWWTSP,- EWWTSP,TAG
+FP,- French Polynesia,TAG
+XV,- South Pacific Ocean Area,TAG
+BEXT,- BEXT,TAG
+CASTILLO VINICIO MARINO,- CASTILLO VINICIO MARINO,TAG
+ESTH,"- Environment, Science, Technology and Health",TAG
+WEOG,- WEOG,TAG
+KTFM,- KTFM,TAG
+UNGA-59,- UNGA-59,TAG
+HT1,- HT1,TAG
+HT2,- HT2,TAG
+ASCH,- Administration--Overseas Schools; U.S. Sponsored Schools,TAG
+HT32,- HT32,TAG
+HT25,- HT25,TAG
+HT12,- HT12,TAG
+HT16,- HT16,TAG
+KVRP,- KVRP,TAG
+KTRD,- KTRD,TAG
+KPPD,- KPPD,TAG
+ETC,- ETC,TAG
+KMPL,- KMPL,TAG
+DUNCAN CAMERON,- DUNCAN CAMERON,TAG
+PHUMPGOV,- PHUMPGOV,TAG
+AMERICAS,- AMERICAS,TAG
+SUMMIT,- SUMMIT,TAG
+THE,- THE,TAG
+AMBASSADOR,- AMBASSADOR,TAG
+MEETINGS,- MEETINGS,TAG
+WITH,- WITH,TAG
+ARTICLE,- ARTICLE,TAG
+MAAR,- MAAR,TAG
+UNFICYP,- UN Force in Cyprus,TAG
+KBEM,- KBEM,TAG
+BERARDUCCI,- BERARDUCCI,TAG
+CHRISTOPHER,- CHRISTOPHER,TAG
+GOMEZ,- GOMEZ,TAG
+CDC,- Communicable Diseases Center; Control Data Corporation,TAG
+PETER,- PETER,TAG
+ZM,- Mediterranean Sea Area,TAG
+KMSG,- Marine Security Guard Program,TAG
+CN,- Comoros,TAG
+NSSP,- NSSP,TAG
+INDO-PAK,- INDO-PAK,TAG
+KWPR,- KWPR,TAG
+DOD,- Department of Defense,TAG
+WIPO,- World Intellectual Property Organization,TAG
+EARI,- EARI,TAG
+KMPF,- KMPF,TAG
+NH,- Vanuatu,TAG
+HT38,- HT38,TAG
+HT21,- HT21,TAG
+HT50,- HT50,TAG
+HT11,- HT11,TAG
+HT13,- HT13,TAG
+HT35,- HT35,TAG
+AY,- Antarctica,TAG
+BEXPPLM,- BEXPPLM,TAG
+AZ,- Azerbaijan,TAG
+NEA/PDD,- NEA/PDD,TAG
+PA/OBS,- PA/OBS,TAG
+UN3C,- UN3C,TAG
+CK,- Cocos (Keeling) Islands,TAG
+SXG,- SXG,TAG
+EISNAR,- EISNAR,TAG
+SAN/CKGR,- SAN/CKGR,TAG
+KKIV,- KKIV,TAG
+EU-GAERC,- EU-GAERC,TAG
+EN,- Estonia,TAG
+LG,- Latvia,TAG
+BEPX,- BEPX,TAG
+ENERG,- Economic Affairs--Energy and Power,TAG
+WAKI,- WAKI,TAG
+ALOUNI,- ALOUNI,TAG
+LEBIK,- LEBIK,TAG
+MPP,- MPP,TAG
+BIT,- BIT,TAG
+RCMP,- RCMP,TAG
+EIAR,- EIAR,TAG
+NAFTA,- NAFTA,TAG
+CR,- Coral Sea Islands,TAG
+MP,- Mauritius,TAG
+XO,- Indian Ocean Area,TAG
+PNIR,- PNIR,TAG
+HOA,- HOA,TAG
+KMCC,- KMCC,TAG
+CS,- Costa Rica,TAG
+KJUST,- KJUST,TAG
+ENVIRONMENT,- ENVIRONMENT,TAG
+SCIENCE,- SCIENCE,TAG
+TECHNOLOGY,- TECHNOLOGY,TAG
+AEC,- Atomic Energy Commission,TAG
+HT7,- HT7,TAG
+HT23,- HT23,TAG
+HT39,- HT39,TAG
+HT45,- HT45,TAG
+HT49,- HT49,TAG
+HT31,- HT31,TAG
+HT22,- HT22,TAG
+HT4,- HT4,TAG
+HT29,- HT29,TAG
+HT28,- HT28,TAG
+ETRC,- ETRC,TAG
+HI,- HI,TAG
+PNG,- PNG,TAG
+2005,- 2005,TAG
+ETCC,- ETCC,TAG
+KHMN,- KHMN,TAG
+SOCIPY,- SOCIPY,TAG
+CTRYCLR,- CTRYCLR,TAG
+MACEDONIA,- MACEDONIA,TAG
+AMB,- AMB,TAG
+LAOS,- LAOS,TAG
+MIL,- MIL,TAG
+VETTING,- VETTING,TAG
+ITU,- International Telecommunications Union,TAG
+KFTN,- KFTN,TAG
+BGD,- BGD,TAG
+CHR,- CHR,TAG
+267453,- 267453,TAG
+GTREFTEL,- GTREFTEL,TAG
+HURI,- HURI,TAG
+SECSTATE,- SECSTATE,TAG
+GPGOV,- GPGOV,TAG
+KUWAIT-IRAN,- KUWAIT-IRAN,TAG
+ISLAMISTS,- ISLAMISTS,TAG
+SHI\''A,- SHI\''A,TAG
+USTRUWR,- USTRUWR,TAG
+KCRS,- Coordinator for Reconstruction and Stabilization,TAG
+START,- Strategic Arms Reduction Talks,TAG
+TORRIJOS MARTIN,- TORRIJOS MARTIN,TAG
+XB,- East Asia and Pacific (Pacific Basin),TAG
+AGIT,- AGIT,TAG
+CV,- Cape Verde,TAG
+BMOT,- BMOT,TAG
+FEFIN,- FEFIN,TAG
+KMEPI,- KMEPI,TAG
+KGOR,- KGOR,TAG
+JE,- Jersey,TAG
+HT6,- HT6,TAG
+HT40,- HT40,TAG
+HT41,- HT41,TAG
+HT18,- HT18,TAG
+HT47,- HT47,TAG
+HT27,- HT27,TAG
+KMPIO,- KMPIO,TAG
+Iraq,- Iraq,TAG
+IASA,- IASA,TAG
+IMET,- IMET,TAG
+301,- 301,TAG
+GATT,- General Agreement on Tariffs and Trade,TAG
+ASPA,- ASPA,TAG
+ARAS,- ARAS,TAG
+CHAVEZ,- CHAVEZ,TAG
+CUBA,- CUBA,TAG
+DEA,- Drug Enforcement Agency,TAG
+EGPHUM,- EGPHUM,TAG
+TL,- Tokelau,TAG
+KIPT,- KIPT,TAG
+EAIDS,- EAIDS,TAG
+CIAT,- CIAT,TAG
+ASSEMBLY,- ASSEMBLY,TAG
+KUWAIT-IRAQ,- KUWAIT-IRAQ,TAG
+WOMEN\''S,- WOMEN\''S,TAG
+THPY,- THPY,TAG
+PEREZ,- PEREZ,TAG
+KMRS,- Rightsizing the U.S. Government''s Overseas Presence,TAG
+UNPUOS,- UN Outer Space Committee,TAG
+ETRAD,- ETRAD,TAG
+NEPAD,- NEPAD,TAG
+NORAD,- NORAD,TAG
+CICTE,- CICTE,TAG
+ITF,- ITF,TAG
+AECL,- AECL,TAG
+OBSP,- OBSP,TAG
+COPUOS,- COPUOS,TAG
+CBSA,- CBSA,TAG
+NPA,- NPA,TAG
+IHO,- IHO,TAG
+KSI,- KSI,TAG
+LB,- LB,TAG
+PREM,- PREM,TAG
+CPPT,- CPPT,TAG
+KSRE,- KSRE,TAG
+AESC,- AESC,TAG
+ARR,- ARR,TAG
+CUSTODIO LOPEZ RAMON,- CUSTODIO LOPEZ RAMON,TAG
+HT24,- HT24,TAG
+HT30,- HT30,TAG
+IRS,- Internal Revenue Service,TAG
+NEA/PI,- NEA/PI,TAG
+KR,- Kiribati,TAG
+VISIT,- VISIT,TAG
+OLYAIR,- OLYAIR,TAG
+ESCAP,- UN Economic and Social Commission for Asia and Pacific,TAG
+FJ,- Fiji,TAG
+PSI,- Italian Socialist Party,TAG
+TG,- TG,TAG
+NRC,- Nuclear Regulatory Commission,TAG
+YOUSSEF MOHAMED HESHAM S. ELDIN,- YOUSSEF MOHAMED HESHAM S. ELDIN,TAG
+UNCRIME,- UN Crime Prevention Control Committee,TAG
+MGMT,- MGMT,TAG
+PIR,- PIR,TAG
+KQ,- Kingman Reef,TAG
+AIDS,- AIDS,TAG
+HIV,- HIV,TAG
+FY2005,- FY2005,TAG
+KCSI,- KCSI,TAG
+IRM,- IRM,TAG
+ESCI,- ESCI,TAG
+AGENDA,- AGENDA,TAG
+SECTOR,- SECTOR,TAG
+STUDENT,- STUDENT,TAG
+VISAS,- VISAS,TAG
+NFATC/ECON,- NFATC/ECON,TAG
+ATPDEA,- ATPDEA,TAG
+SYSI,- SYSI,TAG
+DIEZ,- DIEZ,TAG
+EQ,- EQ,TAG
+ZOELLICK ROBERT B,- ZOELLICK ROBERT B,TAG
+MARQUEZ MANUEL ISAAC SR,- MARQUEZ MANUEL ISAAC SR,TAG
+LEON,- LEON,TAG
+CBE,- CBE,TAG
+KFLD,- KFLD,TAG
+LTG,- LTG,TAG
+CHR-61,- CHR-61,TAG
+PSEPC,- PSEPC,TAG
+CSIS,- Center for Strategic and International Studies,TAG
+MDA,- MDA,TAG
+IDR,- IDR,TAG
+CEUDA,- CEUDA,TAG
+IBET,- IBET,TAG
+PSA,- PSA,TAG
+OMS,- OMS,TAG
+PAIGH,- Pan American Institute of Geography and History,TAG
+AUSGR,- AUSGR,TAG
+MINUSTAH,- MINUSTAH,TAG
+PDIP,- Political Affairs--Diplomatic and Consular Representation,TAG
+KI,- KI,TAG
+KAWX,- KAWX,TAG
+PHAM,- PHAM,TAG
+HZ,- HZ,TAG
+MNNUC,- MNNUC,TAG
+HT43,- HT43,TAG
+ADM,- ADM,TAG
+KJAN,- KJAN,TAG
+SOFA,- SOFA,TAG
+DTRO,- DTRO,TAG
+EURN,- EURN,TAG
+NTDB,- NTDB,TAG
+BTC,- BTC,TAG
+SYRIA,- SYRIA,TAG
+PERL,- PERL,TAG
+ZOELLICK ROBERT J,- ZOELLICK ROBERT J,TAG
+IP,- Clipperton Island,TAG
+SECI,- SECI,TAG
+VC,- Saint Vincent and the Grenadines; Viet Cong,TAG
+IFRC,- International Federation of Red Cross and Red Crescent Societies,TAG
+KIIP,- KIIP,TAG
+USG,- USG,TAG
+NCD,- NCD,TAG
+SIPRNET,- SIPRNET,TAG
+ENGY,- ENGY,TAG
+PPD,- Partido Popular Democrático (Democratic People’s Party); Party for Peace and Democracy,TAG
+IBB,- IBB,TAG
+WRTO,- WRTO,TAG
+GJ,- Grenada,TAG
+KSOC,- KSOC,TAG
+KNAO,- KNAO,TAG
+PRES,- PRES,TAG
+ROSS MARK M,- ROSS MARK M,TAG
+TVBIO,- TVBIO,TAG
+TPSA,- TPSA,TAG
+PRLE,- PRLE,TAG
+WHOA,- WHOA,TAG
+KGHA,- Greater Horn of Africa Initiative,TAG
+CITT,- CITT,TAG
+GF,- GF,TAG
+SCUD,- SCUD,TAG
+WWT,- WWT,TAG
+ADIP,- ADIP,TAG
+WB,- West Berlin,TAG
+KNUC,- KNUC,TAG
+ASEX,- ASEX,TAG
+XC,- Southeast Asia,TAG
+AMERICA,- AMERICA,TAG
+BUY,- BUY,TAG
+TAGS:ECPS,- TAGS:ECPS,TAG
+WSIS,- WSIS,TAG
+HT37,- HT37,TAG
+WEU,- Western European Union,TAG
+UAE,- UAE,TAG
+KISK,- KISK,TAG
+KHOURY ADEL,- KHOURY ADEL,TAG
+TRV,- TRV,TAG
+FBI,- Federal Bureau of Investigation,TAG
+LEGATT,- LEGATT,TAG
+RSO,- RSO,TAG
+CSEP,- CSEP,TAG
+RMA,- RMA,TAG
+BATA,- BATA,TAG
+CAMBODIA,- CAMBODIA,TAG
+NCCC,- NCCC,TAG
+PHUH,- PHUH,TAG
+HSWG,- HSWG,TAG
+PP,- Papua New Guinea,TAG
+SK,- Sikkim,TAG
+TRBIO,- TRBIO,TAG
+CRM,- CRM,TAG
+Trade,- Trade,TAG
+EIPR,- EIPR,TAG
+S,- Office of the Secretary of State,TAG
+ITIA,- ITIA,TAG
+SOLI,- SOLI,TAG
+EPTE,- EPTE,TAG
+KGCC,- KGCC,TAG
+SIAORC,- SIAORC,TAG
+LORAN,- LORAN,TAG
+MOTO,- MOTO,TAG
+PENA,- PENA,TAG
+LARREA,- LARREA,TAG
+MGT,- MGT,TAG
+OTRC,- OTRC,TAG
+CTM,- Customs,TAG
+ZK,- Central Asia,TAG
+CROS GERARD,- CROS GERARD,TAG
+BB.EZ,- BB.EZ,TAG
+HIGHLIGHTS,- HIGHLIGHTS,TAG
+MOROCCO,- MOROCCO,TAG
+KFOR,- KFOR,TAG
+PINOCHET,- PINOCHET,TAG
+HT36,- HT36,TAG
+WJRO,- WJRO,TAG
+MILITANTS,- MILITANTS,TAG
+CRIME,- CRIME,TAG
+BUSH LAURA,- BUSH LAURA,TAG
+NNPT,- NNPT,TAG
+PSCE,- PSCE,TAG
+USEUBRUSSELS,- USEUBRUSSELS,TAG
+AMBASSADOR KEANE JOHN F,- AMBASSADOR KEANE JOHN F,TAG
+UY,- Uruguay,TAG
+BAGHDAD,- BAGHDAD,TAG
+KDP,- KDP,TAG
+KRG,- KRG,TAG
+2006,- 2006,TAG
+EFND,- EFND,TAG
+LU,- Luxembourg,TAG
+EBRD,- European Bank for Reconstruction and Development,TAG
+CFE,- CFE,TAG
+NDI,- NDI,TAG
+KGIT,- Global Information Technology Modernization Program,TAG
+KDEN,- KDEN,TAG
+INL,- INL,TAG
+AGRIC,- AGRIC,TAG
+JCIC,- Joint Compliance and Inspection Commission,TAG
+EB,- EB,TAG
+ZT,- South Atlantic Area,TAG
+A,- A,TAG
+ENG,- ENG,TAG
+EIVN,- EIVN,TAG
+USPS,- US Postal Service,TAG
+BOU,- BOU,TAG
+QADRI MOHAMMAD AFZAL,- QADRI MOHAMMAD AFZAL,TAG
+FOI,- FOI,TAG
+SCUL/FR,- SCUL/FR,TAG
+DRC,- DRC,TAG
+KOC,- Kuwait Oil Company,TAG
+KNP,- KNP,TAG
+KMPT,- KMPT,TAG
+YMOEXC,- YMOEXC,TAG
+AUNR,- AUNR,TAG
+CAFTA,- CAFTA,TAG
+DOC,- DOC,TAG
+MONY,- MONY,TAG
+NT,- NT,TAG
+VELS,- VELS,TAG
+ECRM,- ECRM,TAG
+HT33,- HT33,TAG
+HT46,- HT46,TAG
+KGCN,- Government to Government Claims Negotiations,TAG
+KHPD,- KHPD,TAG
+RIMC,- RIMC,TAG
+ASECE,- ASECE,TAG
+KLBO,- Information Resource Management Liaison Office to Overseas Buildings Operations,TAG
+PTERIZ,- PTERIZ,TAG
+ZOELLICK ROBERT,- ZOELLICK ROBERT,TAG
+KWM,- KWM,TAG
+PRESL,- PRESL,TAG
+GPOI,- GPOI,TAG
+KANSOU TALAL MOHAMAD,- KANSOU TALAL MOHAMAD,TAG
+MFO,- Multinational Force Observers,TAG
+QIZ,- QIZ,TAG
+KPKP,- KPKP,TAG
+HHS,- Department of Health and Human Services,TAG
+JI,- JI,TAG
+KPOKO,- KPOKO,TAG
+UNGO,- UNGO,TAG
+SASEC,- SASEC,TAG
+WMO,- World Meteorological Organization,TAG
+IDP,- IDP,TAG
+BMENA,- BMENA,TAG
+CIA,- Central Intelligence Agency,TAG
+SAAD,- SAAD,TAG
+GUTIERREZ,- GUTIERREZ,TAG
+ORUE,- ORUE,TAG
+UNFA,- UNFA,TAG
+BTIU,- BTIU,TAG
+PUAS,- PUAS,TAG
+IDB,- Inter-American Development Bank; International Development Bank,TAG
+UNVIE,- UNVIE,TAG
+KFIN,- KFIN,TAG
+KTFIN,- KTFIN,TAG
+KJRE,- KJRE,TAG
+PV,- PV,TAG
+PKPAL,- PKPAL,TAG
+NRG,- NRG,TAG
+HT42,- HT42,TAG
+HT26,- HT26,TAG
+HT20,- HT20,TAG
+GCCC,- GCCC,TAG
+CENTER,- CENTER,TAG
+COMMAND,- COMMAND,TAG
+DEPT,- DEPT,TAG
+DS,- DS,TAG
+DS/IP/EUR,- DS/IP/EUR,TAG
+DS/ITA,- DS/ITA,TAG
+FOR,- FOR,TAG
+S/CT,- S/CT,TAG
+EPWR,- EPWR,TAG
+PGGOC,- PGGOC,TAG
+GTMO,- GTMO,TAG
+PPAO,- PPAO,TAG
+KSTH,"- Science, Technology and Health",TAG
+CI3,- CI3,TAG
+RICE CONDOLEEZZA,- RICE CONDOLEEZZA,TAG
+IUCN,- IUCN,TAG
+ESENV,- ESENV,TAG
+KACW,- KACW,TAG
+TERROR,- TERROR,TAG
+JAWAD,- JAWAD,TAG
+H,- H,TAG
+HLSX,- HLSX,TAG
+PTERM,- PTERM,TAG
+CVIC,- CVIC,TAG
+IFIN,- IFIN,TAG
+AORCYM,- AORCYM,TAG
+SOFA/ARTICLE,- SOFA/ARTICLE,TAG
+KBTS,- KBTS,TAG
+PHUMIZNL,- PHUMIZNL,TAG
+ECCP,- ECCP,TAG
+AVIANFLU,- AVIANFLU,TAG
+THIRDTERM,- THIRDTERM,TAG
+ZO,- North Asia,TAG
+CENSUS,- CENSUS,TAG
+ELEC,- Economic Affairs--Non-communications Electrical and Electronic Equipment,TAG
+UNREST,- UNREST,TAG
+BORDER,- BORDER,TAG
+EE,- EE,TAG
+PHUMA,- PHUMA,TAG
+MATT,- MATT,TAG
+AMER,- Administration--Emergency and Evacuation,TAG
+PY,- PY,TAG
+PAC,- Pan African Congress,TAG
+HRIGHTS,- HRIGHTS,TAG
+TOURISM,- TOURISM,TAG
+MARS,- MARS,TAG
+I,- I,TAG
+ETRB,- ETRB,TAG
+FEMA,- Federal Emergency Management Agency,TAG
+ALJAZEERA,- ALJAZEERA,TAG
+DEFIN,- DEFIN,TAG
+MUNC,- MUNC,TAG
+CROATIA,- CROATIA,TAG
+WGC,- WGC,TAG
+FY2006,- FY2006,TAG
+UPUO,- UPUO,TAG
+KATRINA,- KATRINA,TAG
+AME,- AME,TAG
+OMAR,- OMAR,TAG
+KENV,- KENV,TAG
+ETRD.BA,- ETRD.BA,TAG
+HTCG,- HTCG,TAG
+ON,- ON,TAG
+BUT,- BUT,TAG
+SENSITIVE,- SENSITIVE,TAG
+PRELB,- PRELB,TAG
+UNDESCO,- UNDESCO,TAG
+HURRICANE,- HURRICANE,TAG
+KVIR,- Computer Virus and/or Anti-Virus Program,TAG
+ACCELERATED,- ACCELERATED,TAG
+DEPORTATION,- DEPORTATION,TAG
+NOAA,- National Oceanographic and Atmospheric Agency,TAG
+HT44,- HT44,TAG
+HT34,- HT34,TAG
+NARCOTICS,- NARCOTICS,TAG
+BELLVIEW,- BELLVIEW,TAG
+UNHRC-2,- UN Human Rights Committee,TAG
+KICR,- International Coral Reef Initiative,TAG
+BHUM,- BHUM,TAG
+UNECSO,- UNECSO,TAG
+PTEL,- PTEL,TAG
+CYPRUS,- CYPRUS,TAG
+ANARCHISTS,- ANARCHISTS,TAG
+NATOIRAQ,- NATOIRAQ,TAG
+CYPRUSARMS,- CYPRUSARMS,TAG
+KWRC,- KWRC,TAG
+KRAL,- KRAL,TAG
+PGOG,- PGOG,TAG
+ACKM,- Administration--COMSEC Key Management,TAG
+IMTS/T,- IMTS/T,TAG
+RPTS,- RPTS,TAG
+UNHR,- UNHR,TAG
+BIC,- BIC,TAG
+SORT,- SORT,TAG
+PAS,- PAS,TAG
+USAID/DART,- USAID/DART,TAG
+SUCCESSION,- SUCCESSION,TAG
+ASE,- ASE,TAG
+AGUIRRE GARCIA HARRIET ET AL,- AGUIRRE GARCIA HARRIET ET AL,TAG
+FRB,- Federal Reserve Board,TAG
+SASIAIN RODRIGUEZ ANTXON,- SASIAIN RODRIGUEZ ANTXON,TAG
+SILVASANDE FERNANDO,- SILVASANDE FERNANDO,TAG
+KAKA BOUCHAIB ET AL,- KAKA BOUCHAIB ET AL,TAG
+RAMONTEIJELO ANTONIO ET AL,- RAMONTEIJELO ANTONIO ET AL,TAG
+ALZUGUREN PERURENA JOSE ANGEL ET AL,- ALZUGUREN PERURENA JOSE ANGEL ET AL,TAG
+APRM,- APRM,TAG
+SCRS,- SCRS,TAG
+SPP,- SPP,TAG
+PKAO,- PKAO,TAG
+IRC-3,- International Red Cross,TAG
+POLINT,- POLINT,TAG
+INR-B,- INR-B,TAG
+KTLA,- KTLA,TAG
+GANGS,- GANGS,TAG
+BULGARIA-ENDURING,- BULGARIA-ENDURING,TAG
+EUC,- EUC,TAG
+MTAG,- MTAG,TAG
+IND,- IND,TAG
+WCL,- International Federation of Christian Trade Unions; World Confederation of Labor,TAG
+PKPAO,- PKPAO,TAG
+REL,- REL,TAG
+AMEMR,- AMEMR,TAG
+HT10,- HT10,TAG
+EARG,- EARG,TAG
+ETD,- ETD,TAG
+IATTC,- Inter-American Tropical Tuna Commission,TAG
+KNNO,- KNNO,TAG
+TFIN,- TFIN,TAG
+ICRS,- ICRS,TAG
+ATRD,- ATRD,TAG
+VOA,- Voice of America,TAG
+SOMALIA,- SOMALIA,TAG
+PAK,- PAK,TAG
+TR,- Turkey,TAG
+NATGAS,- NATGAS,TAG
+EVENTS,- EVENTS,TAG
+DOJ,- DOJ,TAG
+OPDAT,- OPDAT,TAG
+ARCH,- ARCH,TAG
+IG,- IG,TAG
+HRCS,- HRCS,TAG
+CASCSY,- CASCSY,TAG
+SYAI,- SYAI,TAG
+IRPE,- IRPE,TAG
+ARC,- American Red Cross,TAG
+CARE,- Cooperative for Assistance and Relief Everywhere,TAG
+CBG,- CBG,TAG
+CIS,- Commonwealth of Independent States,TAG
+MNLF,- Moro National Liberation Front (Philippines),TAG
+CLO,- CLO,TAG
+AMGMT,- AMGMT,TAG
+TAGS:ASEC,- TAGS:ASEC,TAG
+KFLU,- Avian and Pandemic Influenza Activities,TAG
+MICHEL SMITH,- MICHEL SMITH,TAG
+SPSTATE,- SPSTATE,TAG
+USPTO,- USPTO,TAG
+DE,- DE,TAG
+HUMRIT,- HUMRIT,TAG
+REGION,- Region (Bahrain),TAG
+ECTRD,- ECTRD,TAG
+BILAT,- BILAT,TAG
+OFFICIALS,- Officials (Bahrain),TAG
+FEDULOV YURIY,- FEDULOV YURIY,TAG
+SLM,- SLM,TAG
+LIB,- LIB,TAG
+KNUP,- KNUP,TAG
+CA/OCS/ACS,- CA/OCS/ACS,TAG
+DS/AS,- DS/AS,TAG
+DS/DSS,- DS/DSS,TAG
+DS/EX,- DS/EX,TAG
+DS/IP,- DS/IP,TAG
+DS/P,- DS/P,TAG
+EUR/EX,- EUR/EX,TAG
+EUR/WE,- EUR/WE,TAG
+FSI/LMS/CMT,- FSI/LMS/CMT,TAG
+POSTS,- POSTS,TAG
+PSO,- PSO,TAG
+STATE,- State Department,TAG
+ACCOUNT,- ACCOUNT,TAG
+CHALLENGE,- CHALLENGE,TAG
+MILLENNIUM,- MILLENNIUM,TAG
+HEAVEN,- HEAVEN,TAG
+SAFE,- SAFE,TAG
+ESLCO,- ESLCO,TAG
+AVIAN,- AVIAN,TAG
+FLU,- FLU,TAG
+KCPS,- KCPS,TAG
+TSA,- TSA,TAG
+EHUM,- EHUM,TAG
+HT5,- HT5,TAG
+PNUC,- PNUC,TAG
+AU-1,- African Union,TAG
+KWAWC,- KWAWC,TAG
+BALKANS,- BALKANS,TAG
+IGF,- IGF,TAG
+KREL,- KREL,TAG
+SIPDIS,- SIPDIS,TAG
+COETRD,- COETRD,TAG
+EAIS,- EAIS,TAG
+DRIP,- DRIP,TAG
+SANC,- SANC,TAG
+FRAZER JENDAYI,- FRAZER JENDAYI,TAG
+FRAZER J,- FRAZER J,TAG
+KNF,- KNF,TAG
+TAGS:EFIN,- TAGS:EFIN,TAG
+BIMSTEC,- BIMSTEC,TAG
+TDA,- TDA,TAG
+KIS,- KIS,TAG
+PKEAID,- PKEAID,TAG
+SEP,- SEP,TAG
+AMGT.JM,- AMGT.JM,TAG
+N,- N,TAG
+IRMO,- IRMO,TAG
+KLTN,- KLTN,TAG
+PIN,- PIN,TAG
+UNGA/C-3-1,- UNGA/C-3-1,TAG
+ABDALLAH FETHI ET AL,- ABDALLAH FETHI ET AL,TAG
+AEMRS,- AEMRS,TAG
+CTR,- CTR,TAG
+ROW,- ROW,TAG
+OESC,- OESC,TAG
+CKOR,- CKOR,TAG
+PGREL,- PGREL,TAG
+AGENCIES,- AGENCIES,TAG
+OTHER,- OTHER,TAG
+SKI,- SKI,TAG
+OHI,- OHI,TAG
+PRELC,- PRELC,TAG
+IC,- Iceland,TAG
+INFLUENZA,- INFLUENZA,TAG
+ME,- Middle East,TAG
+KTFR,- KTFR,TAG
+DO,- Dominica,TAG
+GUIDANCE,- GUIDANCE,TAG
+UNTERR,- UN Committee on International Terrorism,TAG
+BEXD,- BEXD,TAG
+BP,- Solomon Islands; British Petroleum,TAG
+FM,- Micronesia,TAG
+NR,- Nauru,TAG
+TV,- Tuvalu,TAG
+HOSTAGES,- HOSTAGES,TAG
+GAZPROM,- GAZPROM,TAG
+PIRN,- PIRN,TAG
+AIT,- AIT,TAG
+KMSG//1400,- KMSG//1400,TAG
+KNRV,- KNRV,TAG
+KMSG//1050,- KMSG//1050,TAG
+ST,- Saint Lucia,TAG
+KLIP,- KLIP,TAG
+MFA,- MFA,TAG
+EFIC,- EFIC,TAG
+PGOVPZ,- PGOVPZ,TAG
+KGOV,- KGOV,TAG
+SIPDI,- SIPDI,TAG
+KWPA,- Worldwide Property Accountability,TAG
+ECO,- ECO,TAG
+MGTA,- MGTA,TAG
+DHS,- Department of Homeland Security,TAG
+GAERC,- GAERC,TAG
+KFEM,- KFEM,TAG
+TB,- TB,TAG
+DEM,- DEM,TAG
+DARFR,- DARFR,TAG
+RODENAS RUIZ FRANCISCO ET AL,- RODENAS RUIZ FRANCISCO ET AL,TAG
+TWI,- TWI,TAG
+INCB,- International Narcotics Control Board,TAG
+KUNP,- KUNP,TAG
+KSA,- KSA,TAG
+HIZ,- HIZ,TAG
+KIFR,- KIFR,TAG
+OLYMPICS,- OLYMPICS,TAG
+CLEARANCE,- CLEARANCE,TAG
+COUNTRY,- COUNTRY,TAG
+IMMIGRATION,- IMMIGRATION,TAG
+CL,- CL,TAG
+EOXC,- EOXC,TAG
+BUEINV,- BUEINV,TAG
+HL,- HL,TAG
+ITER,- ITER,TAG
+HSTC,- HSTC,TAG
+RGOV,- RGOV,TAG
+OTRAO,- OTRAO,TAG
+BIOTECH,- BIOTECH,TAG
+NATOAFGHAN,- NATOAFGHAN,TAG
+NATOOPS,- NATOOPS,TAG
+BAKOYANNIS,- BAKOYANNIS,TAG
+MAPP,- MAPP,TAG
+AX,- AX,TAG
+DK,- DK,TAG
+JSRP,- JSRP,TAG
+LGAT,- LGAT,TAG
+AMLB,- AMLB,TAG
+DPKO,- DPKO,TAG
+XZ,- Scandinavia,TAG
+ASECVE,- ASECVE,TAG
+AORCUN,- AORCUN,TAG
+ASED,- ASED,TAG
+BGPGOV,- BGPGOV,TAG
+JKUS,- JKUS,TAG
+CJUS,- CJUS,TAG
+T,- T,TAG
+AFPREL,- AFPREL,TAG
+EID,- EID,TAG
+GUAM,- GUAM,TAG
+KY,- KY,TAG
+WHTI,- WHTI,TAG
+EMI,- EMI,TAG
+NCT,- NCT,TAG
+PGOVSI,- PGOVSI,TAG
+APDC,- APDC,TAG
+PGOV.PHUM,- PGOV.PHUM,TAG
+PGOV.PREL,- PGOV.PREL,TAG
+CASCR,- CASCR,TAG
+POTUS,- POTUS,TAG
+ENLT,- ENLT,TAG
+MNNC,- MNNC,TAG
+PN,- Panama,TAG
+EPCS,- EPCS,TAG
+ESTN,- ESTN,TAG
+CITEL,- Inter-American Telecommunications Commissions,TAG
+KFAM,- Foreign Affairs Manual,TAG
+GUANTANAMO,- GUANTANAMO,TAG
+INAUGURATION,- INAUGURATION,TAG
+OIM,- OIM,TAG
+B,- B,TAG
+TN,- Tonga,TAG
+KWOMN,- KWOMN,TAG
+NASA,- National Aeronautics and Space Administration,TAG
+NIH,- National Institutes of Health,TAG
+HPKO,- HPKO,TAG
+CEDAW,- CEDAW,TAG
+HT14,- HT14,TAG
+HT15,- HT15,TAG
+PAO,- PAO,TAG
+KSTS,- KSTS,TAG
+ECCT,- ECCT,TAG
+NC,- New Caledonia,TAG
+PAN,- Partido Accion Nacional,TAG
+PAN AM,- Pan American World Airways,TAG
+PACE PETER,- PACE PETER,TAG
+KIF,- KIF,TAG
+PVOV,- PVOV,TAG
+KCMA,- KCMA,TAG
+RFREEDOM,- RFREEDOM,TAG
+FMS,- FMS,TAG
+PHUMPTER,- PHUMPTER,TAG
+PHEM,- PHEM,TAG
+SNAP,- SNAP,TAG
+RGY,- RGY,TAG
+SENS,- SENS,TAG
+XFNEA/PPD,- XFNEA/PPD,TAG
+KWN,- KWN,TAG
+WEF,- WEF,TAG
+ASCE,- ASCE,TAG
+VANG YEH,- VANG YEH,TAG
+KFRP,- KFRP,TAG
+CTBT,- CTBT,TAG
+MASSPGOV,- MASSPGOV,TAG
+PAL,- Philippine Airlines,TAG
+OGIV,- OGIV,TAG
+OPSC,- OPSC,TAG
+AL-1,- Arab League,TAG
+PRELIZ,- PRELIZ,TAG
+ALANAZI ABDULRAHMEN ABDULHADI M,- ALANAZI ABDULRAHMEN ABDULHADI M,TAG
+PMAR,- PMAR,TAG
+ASEDC,- ASEDC,TAG
+ETT,- ETT,TAG
+SECRETARY OF COMMERCE GUTIERREZ,- SECRETARY OF COMMERCE GUTIERREZ,TAG
+KOR,- KOR,TAG
+PRED,- PRED,TAG
+CENTCOM,- CENTCOM,TAG
+DY,- DY,TAG
+EGAD,- EGAD,TAG
+KESO,- KESO,TAG
+POV,- POV,TAG
+KWHG,- KWHG,TAG
+UNO,- United Nicaraguan Opposition,TAG
+MBM,- MBM,TAG
+MONTENEGRO,- MONTENEGRO,TAG
+PRELPHUM,- PRELPHUM,TAG
+ECA,- Economic Commission for Africa (UN),TAG
+GAMES,- GAMES,TAG
+PARALYMPIC,- PARALYMPIC,TAG
+KALR,- KALR,TAG
+PGOC,- PGOC,TAG
+LAB,- Department of Labor,TAG
+NLIAEA,- NLIAEA,TAG
+KHIB,- KHIB,TAG
+ENER,- ENER,TAG
+UNGA/C-5,- UN General Assembly Administration and Budget Committee,TAG
+UNMOVIC,- UNMOVIC,TAG
+UNCSW,- UN Commission on Status of Women,TAG
+ALAB,- ALAB,TAG
+CCSR,- CCSR,TAG
+EMED,- EMED,TAG
+PGVO,- PGVO,TAG
+WMD,- WMD,TAG
+NATOPOLICY,- NATOPOLICY,TAG
+BNATO,- BNATO,TAG
+NATOBALKANS,- NATOBALKANS,TAG
+DOJ/CRIM/OPDAT,- DOJ/CRIM/OPDAT,TAG
+ECE,- UN Economic Commission for Europe,TAG
+PKPO,- PKPO,TAG
+KMCR,- KMCR,TAG
+MARRV,- MARRV,TAG
+PRL,- PRL,TAG
+UNSD,- UNSD,TAG
+PKNP,- PKNP,TAG
+EENG,- EENG,TAG
+PUNR,- PUNR,TAG
+KDM,- KDM,TAG
+SUBJECT,- SUBJECT,TAG
+KIBL,- KIBL,TAG
+KTBT,- KTBT,TAG
+PKMN,- PKMN,TAG
+IRNB,- IRNB,TAG
+RAY DAVID WILLIAM,- RAY DAVID WILLIAM,TAG
+ASECAF,- ASECAF,TAG
+KEAI,- Enterprise for the Americas Initiative,TAG
+MTRCE,- MTRCE,TAG
+WHA/CEN,- WHA/CEN,TAG
+ITRD,- ITRD,TAG
+PGOV.PINR,- PGOV.PINR,TAG
+PGOV.PHUMBO,- PGOV.PHUMBO,TAG
+EATO,- EATO,TAG
+KSCT,- KSCT,TAG
+KSPA,- KSPA,TAG
+HUNRC-1,- HUNRC-1,TAG
+AIDAC,"- Messages drafted by AID employees, at field posts, or in the Department",TAG
+TOPEC,- TOPEC,TAG
+PREO,- PREO,TAG
+BCW,- BCW,TAG
+KUNH,- KUNH,TAG
+PSOC,- PSOC,TAG
+LR,- LR,TAG
+VIS,- VIS,TAG
+PENV,- PENV,TAG
+ASECM,- ASECM,TAG
+NLO,- NLO,TAG
+XKJA,- XKJA,TAG
+DAFR,- DAFR,TAG
+ILC,ILC,TAG
+FT,- French Territory of Afars and Issas,TAG
+ECON/PRIVATIZATION,- ECON/PRIVATIZATION,TAG
+EINF,- EINF,TAG
+PIRF,- PIRF,TAG
+EBEXP,- EBEXP,TAG
+PQM,- PQM,TAG
+KPAS,- KPAS,TAG
+KNEP,- Non-expendable Property Application (NEPA),TAG
+ETTW,- ETTW,TAG
+PORG,- Political Affairs--Policy Relations With International Organizations,TAG
+QT,- QT,TAG
+EAIC,- EAIC,TAG
+GU,- GU,TAG
+IEAB,- IEAB,TAG
+INRA,- National Institute for Agrarian Reform,TAG
+POLG,- POLG,TAG
+ZH,- North Atlantic Area,TAG
+EWTR,- EWTR,TAG
+MARV,- MARV,TAG
+KISM,- KISM,TAG
+AIEA,- AIEA,TAG
+EDUC,- EDUC,TAG
+RELIGIOUS,- RELIGIOUS,TAG
+EAD,- EAD,TAG
+KOMS,- KOMS,TAG
+KRDP,- KRDP,TAG
+PEL,- PEL,TAG
+AGENGA,- AGENGA,TAG
+EPAT,- EPAT,TAG
+ATRA,- ATRA,TAG
+IRA,- Irish Republican Army,TAG
+ETLN,- ETLN,TAG
+OTR,- OTR,TAG
+EVIN,- EVIN,TAG
+NOK,- NOK,TAG
+EDU,- European Democratic Union,TAG
+OPCD,- OPCD,TAG
+SB&MW,- SB&MW,TAG
+USTA,- USTA,TAG
+CUETRD,- CUETRD,TAG
+PRELMARR,- PRELMARR,TAG
+ENRGSD,- ENRGSD,TAG
+AFL-CIO,- American Federation of Labor and Congress of Industrial Organizations,TAG
+PGO,- PGO,TAG
+KRKO,- KRKO,TAG
+PGOV.SOCI,- PGOV.SOCI,TAG
+KIPRTRD,- KIPRTRD,TAG
+MARRMOPS,- MARRMOPS,TAG
+KBWG,- KBWG,TAG
+KNNC,- KNNC,TAG
+LK,- LK,TAG
+ECOSOC.IZ,- ECOSOC.IZ,TAG
+MCAPS,- MCAPS,TAG
+CRIMES,- CRIMES,TAG
+WAR,- WAR,TAG
+ISSUES,- ISSUES,TAG
+REGIONAL,- REGIONAL,TAG
+REFUGEE,- REFUGEE,TAG
+USCC,- USCC,TAG
+EIDE,- EIDE,TAG
+PNET,- PNET,TAG
+TCOR,- TCOR,TAG
+C,- C,TAG
+PINL,- PINL,TAG
+PFLP,- Popular Front for Liberation of Palestine,TAG
+YU,- YU,TAG
+TIO,- TIO,TAG
+AFSA,- American Foreign Service Association,TAG
+ARABL,- ARABL,TAG
+DRL,- DRL,TAG
+CEPTER,- CEPTER,TAG
+PHARM,- PHARM,TAG
+PHUML,- PHUML,TAG
+MNUCUN,- MNUCUN,TAG
+PCI,- Italian Communist Party,TAG
+EBMGT,- EBMGT,TAG
+KWMEN,- KWMEN,TAG
+KWCR,- KWCR,TAG
+IRCE,- IRCE,TAG
+RPREF,- RPREF,TAG
+PPREL,- PPREL,TAG
+UNM,- UNM,TAG
+EADI,- EADI,TAG
+FREDOM,- FREDOM,TAG
+SUFFRAGE,- SUFFRAGE,TAG
+OSTRA,- OSTRA,TAG
+SCPR,- SCPR,TAG
+PT,- PT,TAG
+FO,- Faroe Islands,TAG
+USTDA,- USTDA,TAG
+ELTM,- ELTM,TAG
+MS,- MS,TAG
+SECDEF/OSD/SOLIC,- SECDEF/OSD/SOLIC,TAG
+PHUMKCRS,- PHUMKCRS,TAG
+CAC,- CAC,TAG
+KID,- KID,TAG
+NEA/IR,- NEA/IR,TAG
+KTAO,- KTAO,TAG
+KNNB,- KNNB,TAG
+IL,- IL,TAG
+SCRM,- SCRM,TAG
+EPREL,- EPREL,TAG
+FAA/IFO,- FAA/IFO,TAG
+IRS-TAX,- IRS-TAX,TAG
+SKEP,- SKEP,TAG
+KMIG,- KMIG,TAG
+ELTRN,- ELTRN,TAG
+UUNR,- UUNR,TAG
+OCHA,- OCHA,TAG
+MINORITIES,- MINORITIES,TAG
+REF,- REF,TAG
+LEIS,- LEIS,TAG
+10,- 10,TAG
+OPICEAGR,- OPICEAGR,TAG
+AORD,- AORD,TAG
+INV,- INV,TAG
+UNUNSC,- UNUNSC,TAG
+ISKPAL,- ISKPAL,TAG
+UNGA/C-2,- UN General Assembly Economic Committee,TAG
+MCCP,- MCCP,TAG
+KNSD,- North-South Dialogue,TAG
+FCSC,- Foreign Claims Settlement Commission of the US,TAG
+PGOVKDEM,- PGOVKDEM,TAG
+KPRO,- KPRO,TAG
+OPPC,- OPPC,TAG
+SCVL,- SCVL,TAG
+APRC,- APRC,TAG
+PDOV,- PDOV,TAG
+EINZ,- EINZ,TAG
+PREL.PARM,- PREL.PARM,TAG
+EBUD,- EBUD,TAG
+IX,- IX,TAG
+PINRPE,- PINRPE,TAG
+GI,- Gibraltar,TAG
+FKFLO,- FKFLO,TAG
+PBST,- PBST,TAG
+RATIFICATION,- RATIFICATION,TAG
+TREATY,- TREATY,TAG
+MOPPS,- MOPPS,TAG
+STC,- STC,TAG
+PGOVPHUM,- PGOVPHUM,TAG
+R,- R,TAG
+BRPA,- BRPA,TAG
+OTRAZ,- OTRAZ,TAG
+JOHANNS MIKE,- JOHANNS MIKE,TAG
+NKNNP,- NKNNP,TAG
+HTSC,- HTSC,TAG
+TJ,- TJ,TAG
+EPRT,- EPRT,TAG
+ISLE,- ISLE,TAG
+L,- L,TAG
+TERR,- TERR,TAG
+UNRCR-1,- UNRCR-1,TAG
+EINN,- EINN,TAG
+A0RC,- A0RC,TAG
+NCTC,- NCTC,TAG
+PNS,- PNS,TAG
+TTPGOV,- TTPGOV,TAG
+EURM,- EURM,TAG
+SNARC,- SNARC,TAG
+KWIR,- Wireless,TAG
+"JA\''AFARI, BASHAR","- JA\''AFARI, BASHAR",TAG
+KPOP,- KPOP,TAG
+OASC,- OASC,TAG
+PTE,- PTE,TAG
+S/WCI,- S/WCI,TAG
+AU-I,- AU-I,TAG
+SALOPEK PAUL,- SALOPEK PAUL,TAG
+ISA,- ISA,TAG
+OTA,- OTA,TAG
+SCENESETTER,- SCENESETTER,TAG
+PSHA,- PSHA,TAG
+INMARSAT,- International Maritime Satellite Organization,TAG
+HYDE,- HYDE,TAG
+AMT,- AMT,TAG
+SEXP,- SEXP,TAG
+ETTR,- ETTR,TAG
+EAVI,- EAVI,TAG
+FDIC,- Federal Deposit Insurance Corporation,TAG
+PINRES,- PINRES,TAG
+UNHRC-1DR,- UNHRC-1DR,TAG
+JIMENEZ,- JIMENEZ,TAG
+PRTER,- PRTER,TAG
+PIF,- PIF,TAG
+SPC,"- South Pacific Commission; Senior Political Committee, NATO; Pacific Community",TAG
+MOOPS,- MOOPS,TAG
+POG,- POG,TAG
+UNIFEM,- UNIFEM,TAG
+NAMSA,- NATO Management Supply Agency,TAG
+KHJUS,- KHJUS,TAG
+KGIC,- Global Initiative to Combat Nuclear Terrorism,TAG
+PRHUM,- PRHUM,TAG
+YS,- Yemen (Aden),TAG
+PRELL,- PRELL,TAG
+OSIC,- OSIC,TAG
+ETZ,- ETZ,TAG
+KADM,- KADM,TAG
+DO THANH CONG,- DO THANH CONG,TAG
+FCC,- Federal Communications Commission,TAG
+UNAF,- UNAF,TAG
+CX,- CX,TAG
+ECOR,- ECOR,TAG
+DEMARCHES,- DEMARCHES,TAG
+COUNTRYCLEARANCE,- COUNTRYCLEARANCE,TAG
+AMGE,- AMGE,TAG
+USSC,- USSC,TAG
+PBOV,- PBOV,TAG
+DOT,- Department of Transportation,TAG
+ETRK,- ETRK,TAG
+JK,- JK,TAG
+UNBRO,- UN Border Relief Operations,TAG
+MIK,- MIK,TAG
+USNATO,- USNATO,TAG
+PREL.EAID,- PREL.EAID,TAG
+PAARM,- PAARM,TAG
+MRSEC,- MRSEC,TAG
+SRYI,- SRYI,TAG
+KEMS,- Electronic Messaging Systems,TAG
+NKWG,- NKWG,TAG
+UNSCR,- UNSCR,TAG
+TIA,- TIA,TAG
+OSEC,- OSEC,TAG
+FRA/IFO,- FRA/IFO,TAG
+ZB,- Baltic States,TAG
+UNGA-6C,- UNGA-6C,TAG
+REFUGEES,- REFUGEES,TAG
+JN,- Jan Mayen Island,TAG
+KICCPUR,- KICCPUR,TAG
+SELAB,- SELAB,TAG
+BTRA,- Business Services--Travel by U.S. and Foreign Businessmen,TAG
+NATSIOS A,- NATSIOS A,TAG
+PNUK,- PNUK,TAG
+AL HOURANI AFAF,- AL HOURANI AFAF,TAG
+WIR,- WIR,TAG
+CON,- CON,TAG
+EAP,- EAP,TAG
+XU,- Australia-New Zealand Region,TAG
+PCRM,- PCRM,TAG
+PHUMAF,- PHUMAF,TAG
+JML,- JML,TAG
+PHUMCF,- PHUMCF,TAG
+PRAM,- PRAM,TAG
+IFO,- IFO,TAG
+HILLEN,- HILLEN,TAG
+LS,- Liechtenstein,TAG
+INR/B,- INR/B,TAG
+PSEC,- PSEC,TAG
+MRS,- MRS,TAG
+FIR,- FIR,TAG
+KPKOUNSC,- KPKOUNSC,TAG
+CAIO,- CAIO,TAG
+KBNC,- KBNC,TAG
+WMDT,- WMDT,TAG
+KLFU,- KLFU,TAG
+CHAO ELAINE L,- CHAO ELAINE L,TAG
+CHAO ELAINE,- CHAO ELAINE,TAG
+YMCS,- YMCS,TAG
+OEXP,- OEXP,TAG
+INRO,- International Natural Rubber Organization,TAG
+IK,- IK,TAG
+IS-COUNTERTERRORISM,- IS-COUNTERTERRORISM,TAG
+TRSY,- Department of the Treasury,TAG
+FA,- FA,TAG
+PLN,- National Liberation Front in Costa Rica,TAG
+KFRED,- KFRED,TAG
+PARTIES/ELECTIONS,- PARTIES/ELECTIONS,TAG
+PUHM,- PUHM,TAG
+ISAJ,- ISAJ,TAG
+OPC,- OPC,TAG
+UAM,- UAM,TAG
+IPINS,- IPINS,TAG
+ZKGM,- ZKGM,TAG
+KRFD,- KRFD,TAG
+QGR,- QGR,TAG
+SCHUL,- SCHUL,TAG
+KFTFN,- KFTFN,TAG
+BESP,- BESP,TAG
+MORS,- MORS,TAG
+FCSCEG,- FCSCEG,TAG
+EWWY,- EWWY,TAG
+DENNIS D. DANFUNG,- DENNIS D. DANFUNG,TAG
+RI,- RI,TAG
+TPSL,- TPSL,TAG
+KA,- KA,TAG
+QM,- QM,TAG
+Z,- Z,TAG
+KUWAIT-U.S.RELATIONS,- KUWAIT-U.S.RELATIONS,TAG
+PVIP,- PVIP,TAG
+BEXB,- BEXB,TAG
+UGA,- UGA,TAG
+DAO,- DAO,TAG
+DCM,- DCM,TAG
+OPAD,- OPAD,TAG
+BOQ,- BOQ,TAG
+PFOV,- PFOV,TAG
+KNDP,- KNDP,TAG
+ETTN,- ETTN,TAG
+SOCR,- SOCR,TAG
+RREL,- RREL,TAG
+PMOPS,- PMOPS,TAG
+UNHRC-1PARM,- UNHRC-1PARM,TAG
+SCI,- SCI,TAG
+LAW,- LAW,TAG
+SNARR,- SNARR,TAG
+KIRP,- KIRP,TAG
+PRESIDENT,- PRESIDENT,TAG
+SECRETARY RICE,- SECRETARY RICE,TAG
+ADEP,- ADEP,TAG
+PKISL,- PKISL,TAG
+OPID,- OPID,TAG
+VARGAS-MALDONADO MIGUEL,- VARGAS-MALDONADO MIGUEL,TAG
+PRUM,- PRUM,TAG
+UGNA,- UGNA,TAG
+EISNLN,- EISNLN,TAG
+PRELHRC,- PRELHRC,TAG
+KECF,- The U.S. Africa Economic Cooperation Forum,TAG
+EAPC,- Euro-Atlantic Partnership Council,TAG
+ESOC,- ESOC,TAG
+UNGA-3C,- UNGA-3C,TAG
+C-5,- C-5,TAG
+UKR,- UKR,TAG
+QEL,- QEL,TAG
+PNNL,- PNNL,TAG
+NMOPS,- NMOPS,TAG
+PRELEIN,- PRELEIN,TAG
+PRER,- PRER,TAG
+CACM,- Central American Common Market,TAG
+PMARR,- PMARR,TAG
+BAIO,- BAIO,TAG
+KDHS,- KDHS,TAG
+CIVAIR,- CIVAIR,TAG
+CAS,- CAS,TAG
+SPCE,- SPCE,TAG
+ETFN,- ETFN,TAG
+KJUSAF,- KJUSAF,TAG
+OPDP,- OPDP,TAG
+AU-A,- AU-A,TAG
+ORTA,- ORTA,TAG
+PHYTRP,- PHYTRP,TAG
+KSUMPHUM,- KSUMPHUM,TAG
+EITC,- EITC,TAG
+KDEV,- KDEV,TAG
+KDCM,- KDCM,TAG
+KM,- KM,TAG
+EQRD,- EQRD,TAG
+RFE,- Radio Free Europe,TAG
+PWMN,- PWMN,TAG
+PPGOV,- PPGOV,TAG
+FKLU,- FKLU,TAG
+SKSAF,- SKSAF,TAG
+ECN,- ECN,TAG
+LBY,- LBY,TAG
+AW,- AW,TAG
+VY,- VY,TAG
+ISN,- ISN,TAG
+NEA,- Nuclear Energy Agency,TAG
+MARRIS,- MARRIS,TAG
+RF,- RF,TAG
+RTT,- RTT,TAG
+LN,- LN,TAG
+UNGA-C2,- UNGA-C2,TAG
+UNGA-2C,- UNGA-2C,TAG
+PPOL,- PPOL,TAG
+ADCP,- ADCP,TAG
+CRIME/CORRUPTION,- CRIME/CORRUPTION,TAG
+ORGANIZED,- ORGANIZED,TAG
+ARMS,- ARMS,TAG
+CONTROL,- CONTROL,TAG
+PETROL,- PETROL,TAG
+PF,- Paracel Islands,TAG
+CVPR,- CVPR,TAG
+EAIRGM,- EAIRGM,TAG
+KAID,- KAID,TAG
+PETR,- PETR,TAG
+SB,- Saint Pierre and Miquelon,TAG
+EFINOECD,- EFINOECD,TAG
+STR,- STR,TAG
+KDGOV,- KDGOV,TAG
+PUM,- PUM,TAG
+KTDM,- KTDM,TAG
+PM/PPA,- PM/PPA,TAG
+PROGV,- PROGV,TAG
+TIUZ,- TIUZ,TAG
+INTEL,- INTEL,TAG
+BFIN,- BFIN,TAG
+SENVSXE,- SENVSXE,TAG
+USGS,- US Geodetic Survey,TAG
+INTERPOL,- International Criminal Police Organization,TAG
+ROBERT W. ALVAREZ,- ROBERT W. ALVAREZ,TAG
+USOP,- USOP,TAG
+DHSX,- DHSX,TAG
+USTRIT,- USTRIT,TAG
+EUM,- EUM,TAG
+WCO,- WCO,TAG
+BURNS NICHOLAS,- BURNS NICHOLAS,TAG
+JOSEPH ROBERTG,- JOSEPH ROBERTG,TAG
+KCRMJA,- KCRMJA,TAG
+CMP,- CMP,TAG
+UNCDF,- UNCDF,TAG
+JUS,- Department of Justice,TAG
+SNARN,- SNARN,TAG
+INTELLECTUAL,- INTELLECTUAL,TAG
+PROPERTY,- PROPERTY,TAG
+FRU,- FRU,TAG
+TRY,- TRY,TAG
+PIA,- Pakistani Airlines,TAG
+PKPA,- PKPA,TAG
+MPREL,- MPREL,TAG
+CONEAZ,- CONEAZ,TAG
+DAC,- Development Assistance Committee (OECD),TAG
+PREK,- PREK,TAG
+UNHCR-2,- UNHCR-2,TAG
+KIRD,- KIRD,TAG
+KWWT,- KWWT,TAG
+SCA/CEN,- SCA/CEN,TAG
+OCEA,- OCEA,TAG
+DPM,- DPM,TAG
+FORWHA/CEN,- FORWHA/CEN,TAG
+PREFF,- PREFF,TAG
+MCAPARR,- MCAPARR,TAG
+KCRT,- KCRT,TAG
+PREC,- PREC,TAG
+IRAN,- IRAN,TAG
+BIDOON,- BIDOON,TAG
+LAVIN,- LAVIN,TAG
+BEXPC,- BEXPC,TAG
+ALL,- ALL,TAG
+ASECARP,- ASECARP,TAG
+MEX,- MEX,TAG
+PARP,- PARP,TAG
+PAHO,- Pan American Health Organization,TAG
+SCRSERD,- SCRSERD,TAG
+CRS,- Catholic Relief Services,TAG
+BRITNEY MCGRAW,- BRITNEY MCGRAW,TAG
+JIMENEZ KIDS,- JIMENEZ KIDS,TAG
+CRUZ ESTRADA JUAN MANUEL,- CRUZ ESTRADA JUAN MANUEL,TAG
+CYNTHIA VANESSA FIGUEROA LOPEZ,- CYNTHIA VANESSA FIGUEROA LOPEZ,TAG
+JIMENEZ CHILDREN,- JIMENEZ CHILDREN,TAG
+ALVAREZ ROBERT WILLIAM,- ALVAREZ ROBERT WILLIAM,TAG
+GESKE BRIAN RICHARD,- GESKE BRIAN RICHARD,TAG
+JAPAN,- JAPAN,TAG
+AIAG,- AIAG,TAG
+NATEU,- NATEU,TAG
+QTRD,- QTRD,TAG
+LAS,- LAS,TAG
+MCTRE,- MCTRE,TAG
+PARMR,- PARMR,TAG
+M-19,- M-19,TAG
+BEXP.NL,- BEXP.NL,TAG
+CBC,- Canadian Broadcasting Corporation,TAG
+KAWK,- KAWK,TAG
+SEN,- SEN,TAG
+CONDITIONS,- CONDITIONS,TAG
+NON-PROLIFERATION,- NON-PROLIFERATION,TAG
+PRIVATIZATION,- PRIVATIZATION,TAG
+PRELPGOV,- PRELPGOV,TAG
+KRM,- KRM,TAG
+EAIDNI,- EAIDNI,TAG
+PREG,- PREG,TAG
+ASOC,- ASOC,TAG
+OZ,- OZ,TAG
+SCNV,- SCNV,TAG
+ECON.TH,- ECON.TH,TAG
+E,- E,TAG
+K,- K,TAG
+NUIN,- NUIN,TAG
+ARRMZY,- ARRMZY,TAG
+KH,- KH,TAG
+VENZ,- VENZ,TAG
+ELAM,- ELAM,TAG
+UNGA/C5,- UNGA/C5,TAG
+UNGA/C6,- UNGA/C6,TAG
+V,- V,TAG
+VEN,- VEN,TAG
+ARABLEAGUE,ARABLEAGUE,TAG
+MASSTZ,- MASSTZ,TAG
+ELAP,- ELAP,TAG
+PRELPLS,- PRELPLS,TAG
+EAIDAF,- EAIDAF,TAG
+PRELNP,- PRELNP,TAG
+MARRSU,- MARRSU,TAG
+PGOVSU,- PGOVSU,TAG
+OMB,- Office of Management and Budget,TAG
+CHG,- CHG,TAG
+EMINCG,- EMINCG,TAG
+PINV,- PINV,TAG
+CIP,- Council on International Programs,TAG
+REALTIONS,- REALTIONS,TAG
+ASCC,- ASCC,TAG
+KTIAEUN,- KTIAEUN,TAG
+IMSO,- IMSO,TAG
+ARAB,- ARAB,TAG
+LEAGUE,- LEAGUE,TAG
+KDRM,- KDRM,TAG
+EAR,- EAR,TAG
+PPA,- PPA,TAG
+NICOLE MARIE SIMS,- NICOLE MARIE SIMS,TAG
+IVIANNA G. RIVERA,- IVIANNA G. RIVERA,TAG
+BRITNY MCGRAW,- BRITNY MCGRAW,TAG
+ANDREW LEE WATKINS,- ANDREW LEE WATKINS,TAG
+CHRISTOF KEVIN FRANCIS,- CHRISTOF KEVIN FRANCIS,TAG
+ISPA,- ISPA,TAG
+PGOVM,- PGOVM,TAG
+OARC,- OARC,TAG
+PRT,- PRT,TAG
+LBAR,- Board of Appellate Review,TAG
+AMCHAMS,- American Chambers of Commerce,TAG
+CMAE,- CMAE,TAG
+KQM,- KQM,TAG
+KQRDQ,- KQRDQ,TAG
+PPEF,- PPEF,TAG
+UNSC.MO,- UNSC.MO,TAG
+ARSO,- ARSO,TAG
+UNSCR-1,- UNSCR-1,TAG
+KSTCPL,- KSTCPL,TAG
+EAIT,- EAIT,TAG
+EPE,- EPE,TAG
+MF,- Mayotte,TAG
+Q,- Q,TAG
+IWI,- IWI,TAG
+SECRETARY PETERS,- SECRETARY PETERS,TAG
+ECUN,- ECUN,TAG
+KUM,- KUM,TAG
+PHUME,- PHUME,TAG
+KPIR,- Maritime Piracy and Armed Robbery Against Ships,TAG
+TNAR,- TNAR,TAG
+INL/HSTC,- INL/HSTC,TAG
+NEGROPONTE JOHN,- NEGROPONTE JOHN,TAG
+USMS,- USMS,TAG
+EMN,- EMN,TAG
+ASSSEMBLY,- ASSSEMBLY,TAG
+D,- D,TAG
+CDCE,- CDCE,TAG
+UNMIK.UN,- UNMIK.UN,TAG
+EIB,- EIB,TAG
+PRGOV,- PRGOV,TAG
+OSHA,- Occupational Safety and Health Administration,TAG
+KNMP,- KNMP,TAG
+NEGROPONTE,- NEGROPONTE,TAG
+PAGR,- PAGR,TAG
+JULIAN RENE KIRCHOFF,- JULIAN RENE KIRCHOFF,TAG
+KAYLA WHITMER,- KAYLA WHITMER,TAG
+NRRC,- NRRC,TAG
+KCSA,- KCSA,TAG
+PG,- Spratly Islands,TAG
+UNMIC,- UNMIC,TAG
+YL,- YL,TAG
+CASA,- CASA,TAG
+KTTP,- KTTP,TAG
+KJWC,- KJWC,TAG
+KLFLO,- KLFLO,TAG
+CJ,- Cayman Islands,TAG
+AMGT.CASC,- AMGT.CASC,TAG
+GEF,- GEF,TAG
+PRELJA,- PRELJA,TAG
+AOCR,- AOCR,TAG
+DMIN,- DMIN,TAG
+ENRGKNNP,- ENRGKNNP,TAG
+KNAP,- KNAP,TAG
+POINS,- POINS,TAG
+PARMCH,- PARMCH,TAG
+RPEL,- RPEL,TAG
+CDCC,- CDCC,TAG
+EXO,- EXO,TAG
+PINER,- PINER,TAG
+SENVSPL,- SENVSPL,TAG
+KTTC,- KTTC,TAG
+MTRRE,- MTRRE,TAG
+SASC,- SASC,TAG
+ASFC,- ASFC,TAG
+UDEM,- UDEM,TAG
+KPMI,- KPMI,TAG
+PGOVU,- PGOVU,TAG
+KVRC,- KVRC,TAG
+UNCHC,- UN Committee on Hostages Convention,TAG
+G/AIAG,- G/AIAG,TAG
+AMPR,- AMPR,TAG
+KIMT,- Information Management Training,TAG
+JOHN PAUL BAYS,- JOHN PAUL BAYS,TAG
+ORED,- ORED,TAG
+NOI,- NOI,TAG
+RHUM,- RHUM,TAG
+PNR,- PNR,TAG
+ASECIR,- ASECIR,TAG
+TWL,- TWL,TAG
+KTNF,- KTNF,TAG
+GBSLE,- GBSLE,TAG
+NTSB,- National Transportation Safety Board,TAG
+HKSX,- HKSX,TAG
+KSOCI,- KSOCI,TAG
+ERD,- ERD,TAG
+NV,- NV,TAG
+KCMR,- KCMR,TAG
+EPGOV,- EPGOV,TAG
+MHUC,- MHUC,TAG
+UNSCD,- UNSCD,TAG
+KGHG,- Global Climate Change,TAG
+LPREL,- LPREL,TAG
+GRQ,- GRQ,TAG
+PBS,- Public Broadcasting System,TAG
+PNRG,- PNRG,TAG
+BPIS,- BPIS,TAG
+OLY,- OLY,TAG
+EFI,- EFI,TAG
+KTFS,- KTFS,TAG
+EFIN.EINV.ENRG,- EFIN.EINV.ENRG,TAG
+GJBB,- GJBB,TAG
+PINRHU,- PINRHU,TAG
+ARABBL,- ARABBL,TAG
+KDEMSOCI,- KDEMSOCI,TAG
+HE,- HE,TAG
+WMN,- WMN,TAG
+CLMT,- CLMT,TAG
+INNP,- INNP,TAG
+DMINE,- DMINE,TAG
+KUK,- KUK,TAG
+APR,- APR,TAG
+KMARR,- KMARR,TAG
+PING,- PING,TAG
+KOSCE,- KOSCE,TAG
+PARMIR,- PARMIR,TAG
+QEGION,- QEGION,TAG
+UNMIL,- UNMIL,TAG
+NELSON-LOTT,- NELSON-LOTT,TAG
+ELBA,- ELBA,TAG
+KPET,- KPET,TAG
+MANUEL SERGIO GONZALEZ,- MANUEL SERGIO GONZALEZ,TAG
+CHRISTIAN LARS ERICKSON,- CHRISTIAN LARS ERICKSON,TAG
+TPKO,- TPKO,TAG
+DHA,- DHA,TAG
+ENTG,- ENTG,TAG
+UNCDN,- UNCDN,TAG
+NMNUC,- NMNUC,TAG
+KOUYATE LANSANA,- KOUYATE LANSANA,TAG
+KV,- Kosovo,TAG
+KWPB,- KWPB,TAG
+AOR,- AOR,TAG
+ENFR,- ENFR,TAG
+ALBE,- ALBE,TAG
+AFDB,- African Development Bank,TAG
+OREG,- OREG,TAG
+RSOX,- RSOX,TAG
+EITI,- EITI,TAG
+ITRA,- ITRA,TAG
+KNRG,- KNRG,TAG
+H2O,- H2O,TAG
+RUS,- RUS,TAG
+CYP,- CYP,TAG
+LV,- LV,TAG
+PMUC,- PMUC,TAG
+BEAN,- BEAN,TAG
+OAO,- OAO,TAG
+OCBD,- OCBD,TAG
+OCRA,- OCRA,TAG
+OFSO,- OFSO,TAG
+ONA,- ONA,TAG
+OSTA,- OSTA,TAG
+OTP,- OTP,TAG
+KWWN,- KWWN,TAG
+FINE,- FINE,TAG
+PARTM,- PARTM,TAG
+PAMQ,- PAMQ,TAG
+USAU,- USAU,TAG
+GAO,- General Accounting Office; Government Accountability Office,TAG
+OA,- OA,TAG
+PPTER,- PPTER,TAG
+ESA,- European Space Agency; Greek Military Police,TAG
+KEDM,- KEDM,TAG
+FRANCISCO VILLA URBALEJO,- FRANCISCO VILLA URBALEJO,TAG
+PINO,- PINO,TAG
+NMUC,- NMUC,TAG
+IEINV,- IEINV,TAG
+IAEAK,- IAEAK,TAG
+UNOPS,- UNOPS,TAG
+OTRD,- OTRD,TAG
+IO/EDA,- IO/EDA,TAG
+ELIN,- ELIN,TAG
+OPS,- OPS,TAG
+ASECTH,- ASECTH,TAG
+ECONEGE,- ECONEGE,TAG
+KCHG,- KCHG,TAG
+EAIDAR,- EAIDAR,TAG
+KCASC,- KCASC,TAG
+IQNV,- IQNV,TAG
+KPA,- KPA,TAG
+TFJM01,- TFJM01,TAG
+X,- X,TAG
+UNYI,- UNYI,TAG
+KNATO,- KNATO,TAG
+TSRL,- TSRL,TAG
+MMED,- MMED,TAG
+ELAB.PGOV,- ELAB.PGOV,TAG
+BLUNT ROY,- BLUNT ROY,TAG
+DANIEL SULLIVAN,- DANIEL SULLIVAN,TAG
+ENRD,- ENRD,TAG
+SWHO,- SWHO,TAG
+PATRICK WARREN MAHURIN,- PATRICK WARREN MAHURIN,TAG
+ORECD,- ORECD,TAG
+MH,- Montserrat,TAG
+EIAID,- EIAID,TAG
+CNO ADMIRAL MULLEN,- CNO ADMIRAL MULLEN,TAG
+PRELUN,- PRELUN,TAG
+IICA,- Inter-American Institute of Agriculture,TAG
+KCERS,- KCERS,TAG
+INL/C/CP,- INL/C/CP,TAG
+INL/I,- INL/I,TAG
+NEA/I,- NEA/I,TAG
+S/I,- S/I,TAG
+OECS,- Organization of Eastern Caribbean States,TAG
+TITI,- TITI,TAG
+PFIN,- PFIN,TAG
+FISO,- FISO,TAG
+PRELID,- PRELID,TAG
+PGOVID,- PGOVID,TAG
+KDRG,- Detainee Repatriation from Guantanamo Bay,TAG
+KPFO,- KPFO,TAG
+IADB,- Inter-American Defense Board,TAG
+MGHH01,- MGHH01,TAG
+ASECSI,- ASECSI,TAG
+EXEC,- EXEC,TAG
+MORALES HECTOR,- MORALES HECTOR,TAG
+REFPAN,- REFPAN,TAG
+KWRF,- KWRF,TAG
+FGM,- FGM,TAG
+TER,- TER,TAG
+EGOV,- EGOV,TAG
+NAT,- NAT,TAG
+EUMEM,- EUMEM,TAG
+PGOV.KDEM,- PGOV.KDEM,TAG
+OVP,- Office of the Vice President,TAG
+IACI,- Inter-American Children''s Institute,TAG
+KMAR,- KMAR,TAG
+RE,- Reunion,TAG
+BURNS WILLIAM,- BURNS WILLIAM,TAG
+KBTR,- KBTR,TAG
+UNCITRAL,- UN Commission on International Trade Law,TAG
+AORL,- AORL,TAG
+MNUCWA,- MNUCWA,TAG
+KCVM,- KCVM,TAG
+KCRI,- KCRI,TAG
+OTHERSASNEEDED,- OTHERSASNEEDED,TAG
+KKNP,- KKNP,TAG
+PRELM,- PRELM,TAG
+G,- G,TAG
+ETRDEC,- ETRDEC,TAG
+KK,- KK,TAG
+KPSC,- KPSC,TAG
+EENV,- EENV,TAG
+GGGGG,- GGGGG,TAG
+ARM,- ARM,TAG
+ZW,- ZW,TAG
+PTERKS,- PTERKS,TAG
+SMIL,- SMIL,TAG
+CHAMAN JONATHAN,- CHAMAN JONATHAN,TAG
+TRYS,- TRYS,TAG
+KRCS,- KRCS,TAG
+EREL,- EREL,TAG
+FWS,- Fish and Wildlife Service,TAG
+EPETEIND,- EPETEIND,TAG
+EUNPHUM,- EUNPHUM,TAG
+IA,- IA,TAG
+DS/IP/WHA,- DS/IP/WHA,TAG
+ILEA,- ILEA,TAG
+MRCRE,- MRCRE,TAG
+PINSO,- PINSO,TAG
+AOREC,- AOREC,TAG
+RFIN,- RFIN,TAG
+SNUC,- SNUC,TAG
+KWAK,- KWAK,TAG
+ENVI,- ENVI,TAG
+PARTY,- PARTY,TAG
+PHALANAGE,- PHALANAGE,TAG
+KPAK,- KPAK,TAG
+PGGV,- PGGV,TAG
+TBI,- TBI,TAG
+UNAMA,- UNAMA,TAG
+EUE,- EUE,TAG
+UNGA/C-4,- UN General Assembly Trusteeship Committee,TAG
+EPETUN,- EPETUN,TAG
+MTCRE.PREL,- MTCRE.PREL,TAG
+EAIDHO,- EAIDHO,TAG
+INR/IRE,- INR/IRE,TAG
+USUN/POL,- USUN/POL,TAG
+NRR,- NRR,TAG
+PUNE,- PUNE,TAG
+UNGA/C-1,- UN General Assembly Political Committee,TAG
+ORCA,- ORCA,TAG
+RL,- Radio Liberty,TAG
+PGOVEAID,- PGOVEAID,TAG
+DEFENSEREFORM,- DEFENSEREFORM,TAG
+MB,- Martinique,TAG
+QI,- QI,TAG
+KETTC,- KETTC,TAG
+KINT,- KINT,TAG
+PREZ,- PREZ,TAG
+ENGRD,- ENGRD,TAG
+ELAN,- ELAN,TAG
+SNA,- SNA,TAG
+OBAMA BARACK,- OBAMA BARACK,TAG
+UAID,- UAID,TAG
+IMC,- International Meteorological Committee,TAG
+ICES,- International Council for the Exploration of the Sea,TAG
+CPCTC,- Colombo Plan Council for Technical Cooperation in South and Southeast Asia (CPCTC),TAG
+KDET,- KDET,TAG
+KCEM,- KCEM,TAG
+DEAX,- DEAX,TAG
+ORP,- ORP,TAG
+EETC,- EETC,TAG
+UNMIN,- UNMIN,TAG
+CFG,- CFG,TAG
+ENVR,- ENVR,TAG
+HG,- HG,TAG
+ETRG,- ETRG,TAG
+OIG,- OIG,TAG
+ACAO,- ACAO,TAG
+EGHG,- EGHG,TAG
+PHUMQHA,- PHUMQHA,TAG
+ZANU,- Zimbabwe African National Union,TAG
+PSNR,- PSNR,TAG
+UNCRED,- UN Credentials Committee,TAG
+AIN,- AIN,TAG
+EURFOR,- EURFOR,TAG
+RPREL,- RPREL,TAG
+XJ,- Africa South of the Sahara,TAG
+NW,- NW,TAG
+KEIM,- KEIM,TAG
+KTFNJA,- KTFNJA,TAG
+UNIDO,- UN Industrial Development Organization,TAG
+AF.PGOV,- AF.PGOV,TAG
+PWBG,- PWBG,TAG
+AGS,- AGS,TAG
+AT,- AT,TAG
+PGOVPM,- PGOVPM,TAG
+KRGY,- KRGY,TAG
+ORA,- ORA,TAG
+USAU-1,- USAU-1,TAG
+EINDIR,- EINDIR,TAG
+KHSL,- KHSL,TAG
+KLSO,- Language Support Operations,TAG
+NKKP,- NKKP,TAG
+EDEV,- EDEV,TAG
+MASC,- MASC,TAG
+NAR,- NAR,TAG
+KNN,- KNN,TAG
+KNOP,- KNOP,TAG
+TERAA,- TERAA,TAG
+BIOS,- BIOS,TAG
+KISC,- KISC,TAG
+AZE,- AZE,TAG
+TRBY,- TRBY,TAG
+SGNV,- SGNV,TAG
+PRWL,- PRWL,TAG
+TRAD,- TRAD,TAG
+EINO,- EINO,TAG
+M0PS,- M0PS,TAG
+KPAI,- KPAI,TAG
+OCED,- OCED,TAG
+GKGIC,- GKGIC,TAG
+PRELMU,- PRELMU,TAG
+CHAD,- CHAD,TAG
+TRYG,- TRYG,TAG
+KEBG,- KEBG,TAG
+SNARM,- SNARM,TAG
+PHSAUNSC,- PHSAUNSC,TAG
+KSUP,- KSUP,TAG
+PGV,- PGV,TAG
+EUR/SCE,- EUR/SCE,TAG
+HELGERSON,- HELGERSON,TAG
+HYLAND FOOKS,- HYLAND FOOKS,TAG
+INT,- Department of the Interior,TAG
+ACEC,- ACEC,TAG
+NARR,- NARR,TAG
+NATO.MNUC,- NATO.MNUC,TAG
+IFM,- IFM,TAG
+KITA,- KITA,TAG
+MGL,- MGL,TAG
+RUEHZO,- RUEHZO,TAG
+SCCC-3,- SCCC-3,TAG
+PRO,- PRO,TAG
+PHUMK,- PHUMK,TAG
+OPPI,- OPPI,TAG
+DCRM,- DCRM,TAG
+KPTD,- KPTD,TAG
+PHUS,- PHUS,TAG
+EPSC,- EPSC,TAG
+PGOVL,- PGOVL,TAG
+MUC,- MUC,TAG
+KCIS,- Posts Classified Information Handling,TAG
+PHSAQ,- PHSAQ,TAG
+PAR,- PAR,TAG
+FMGT,- FMGT,TAG
+KPREL,- KPREL,TAG
+XTAG,- XTAG,TAG
+OASCC,- OASCC,TAG
+UNAIDS,- UNAIDS,TAG
+KTTB,- KTTB,TAG
+SFNV,- SFNV,TAG
+GZIS,- GZIS,TAG
+GIPNC,- GIPNC,TAG
+OIPP,- OIPP,TAG
+PS,- Palau; Trust Territory of the Pacific Islands,TAG
+EUCOM,- US European Command,TAG
+IAEA.ENRG,- IAEA.ENRG,TAG
+KWNN,- KWNN,TAG
+MNU,- MNU,TAG
+KDGR,- KDGR,TAG
+EINVA,- EINVA,TAG
+SOC,- SOC,TAG
+MGOV,- MGOV,TAG
+TRGV,- TRGV,TAG
+SAIS,- SAIS,TAG
+KWRG,- KWRG,TAG
+EWT,- EWT,TAG
+PGIV,- PGIV,TAG
+KPEM,- KPEM,TAG
+AMGTATK,- AMGTATK,TAG
+KCRCM,- KCRCM,TAG
+AQ,- American Samoa,TAG
+ZN,- North Pacific Area,TAG
+MARR.MASS,- MARR.MASS,TAG
+HT,- HT,TAG
+KRF,- KRF,TAG
+SOCIA,- SOCIA,TAG
+ENR,- ENR,TAG
+EAOD,- EAOD,TAG
+PMAT,- PMAT,TAG
+EIQ,- EIQ,TAG
+OPOC,- OPOC,TAG
+SYR,- SYR,TAG
+UNFCYP,- UNFCYP,TAG
+ETRD.EWWT.ECON,- ETRD.EWWT.ECON,TAG
+ETRGY,- ETRGY,TAG
+PSOCI,- PSOCI,TAG
+TU.IR,- TU.IR,TAG
+DCG,- DCG,TAG
+KMNP,- KMNP,TAG
+UEUN,- UEUN,TAG
+PAUM,- PAUM,TAG
+RAMOS-HORTA JOSE,- RAMOS-HORTA JOSE,TAG
+WEBZ,- WEBZ,TAG
+WEBG,- WEBG,TAG
+GPOV,- GPOV,TAG
+PROB,- PROB,TAG
+CLINTON HILLARY,- CLINTON HILLARY,TAG
+PNUM,- PNUM,TAG
+AMEDI,- AMEDI,TAG
+CEC,- Commission of the European Communities,TAG
+KSTT,- State Transition Team,TAG
+ABLG,- ABLG,TAG
+ARG,- ARG,TAG
+MESUR,- MESUR,TAG
+ETER,- ETER,TAG
+PGOR,- PGOR,TAG
+KCM,- KCM,TAG
+KTFN.ETRD,- KTFN.ETRD,TAG
+ACBAQ,- ACBAQ,TAG
+RENE PREVAL,- RENE PREVAL,TAG
+TBKIO,- TBKIO,TAG
+KJU,- KJU,TAG
+MTCRA,- MTCRA,TAG
+TIBO,- TIBO,TAG
+KVIS,- KVIS,TAG
+UNCOPUOS,- UNCOPUOS,TAG
+SOWGC,- SOWGC,TAG
+APCS,- Administration--Personal Computers,TAG
+ENVT,- ENVT,TAG
+DOE,- Department of Energy,TAG
+PRIL,- PRIL,TAG
+KPWG,- KPWG,TAG
+PRELNL,- PRELNL,TAG
+KDDEM,- KDDEM,TAG
+PBT,- PBT,TAG
+POLS,- POLS,TAG
+IAIE,- IAIE,TAG
+ELABV,- ELABV,TAG
+KPROG,- KPROG,TAG
+INRD,- INRD,TAG
+EPTER,- EPTER,TAG
+MEA,- Middle East Airlines,TAG
+KPAM,- Property Accountability Management,TAG
+PREL.PGOV,- PREL.PGOV,TAG
+PGIC,- PGIC,TAG
+ORC,- ORC,TAG
+KMVP,- KMVP,TAG
+SV,- Svalbard,TAG
+ELAD,- ELAD,TAG
+ESSO,"- Exxon Mobil - (direct descendant of Standard Oil Company, which is also known by the phonetic version of initials SO, Esso)",TAG
+PBK,- PBK,TAG
+MCCONNELL,- MCCONNELL,TAG
+OHUM,- OHUM,TAG
+PQL,- PQL,TAG
+WGG,- WGG,TAG
+KMPP,- KMPP,TAG
+NATO.KPKO,- NATO.KPKO,TAG
+PPKO,- PPKO,TAG
+CDB,- Caribbean Development Bank,TAG
+KVBL,- KVBL,TAG
+EC0N,- EC0N,TAG
+IAHRC,- Inter-American Human Rights Commission,TAG
+PGOVREL,- PGOVREL,TAG
+OFDC,- OFDC,TAG
+OIF,- OIF,TAG
+POREL,- POREL,TAG
+MCAPN,- MCAPN,TAG
+ECOIN,- ECOIN,TAG
+EUN.PREL,- EUN.PREL,TAG
+O,- O,TAG
+TSPAUV,- TSPAUV,TAG
+MCAPP,- MCAPP,TAG
+PARR,- PARR,TAG
+OBAMA,- OBAMA,TAG
+AEM,- AEM,TAG
+WWBG,- WWBG,TAG
+MOPSPBTS,- MOPSPBTS,TAG
+CLINTON HILLARY RODHAM,- CLINTON HILLARY RODHAM,TAG
+DIPLOMACY,- DIPLOMACY,TAG
+NET-CENTRIC,- NET-CENTRIC,TAG
+VO,- VO,TAG
+UNC,- UN Command in Korea,TAG
+KNET,- Department of State Telecommunications Network (DOSTN) Program,TAG
+PB,- PB,TAG
+KKPO,- KKPO,TAG
+IRGG,- IRGG,TAG
+RR,- RR,TAG
+PHM,- PHM,TAG
+KOMCSG,- KOMCSG,TAG
+IBRB,- IBRB,TAG
+MDO,- MDO,TAG
+RAS,- RAS,TAG
+WWARD,- WWARD,TAG
+ABMC,- American Battle Monuments Commission,TAG
+PREL.UN,- PREL.UN,TAG
+MINURSO,- UN Mission for the Referendum in Western Sahara,TAG
+AOWC,- AOWC,TAG
+ESPS,- ESPS,TAG
+ETTF,- ETTF,TAG
+KCORR,- KCORR,TAG
+MITCHELL,- MITCHELL,TAG
+TAUSCHER,- TAUSCHER,TAG
+BOND,- BOND,TAG
+G20,- G20,TAG
+WBG,- WBG,TAG
+AIHRC,- AIHRC,TAG
+MCCAIN,- MCCAIN,TAG
+UNEF,- UN Emergency Force,TAG
+KOMO,- KOMO,TAG
+OICCO,- OICCO,TAG
+POPDC,- POPDC,TAG
+KARZAI HAMID,- KARZAI HAMID,TAG
+INSC,- INSC,TAG
+IBD,- IBD,TAG
+PD,- PD,TAG
+MSG,- Marine Security Guard,TAG
+ETEX,- ETEX,TAG
+CIJ,- CIJ,TAG
+CBD,- CBD,TAG
+KMGT,- KMGT,TAG
+KFGM,- KFGM,TAG
+KPGOV,- KPGOV,TAG
+CLINTON HILLARY R,- CLINTON HILLARY R,TAG
+HSI,- HSI,TAG
+PER,- Administration--Personnel,TAG
+UNMIKV,- UNMIKV,TAG
+OPREP,- OPREP,TAG
+ASECKHLS,- ASECKHLS,TAG
+ALIREZA,- ALIREZA,TAG
+BIDEN JOSEPH,- BIDEN JOSEPH,TAG
+SHANNON,- SHANNON,TAG
+KSEAO,- KSEAO,TAG
+STEINBERG JAMES,- STEINBERG JAMES,TAG
+DTRA,- DTRA,TAG
+HILLARY CLINTON,- HILLARY CLINTON,TAG
+EAIF,- EAIF,TAG
+MQADHAFI,- MQADHAFI,TAG
+EAIO,- EAIO,TAG
+IPK,- IPK,TAG
+EON,- EON,TAG
+KAWL,- KAWL,TAG
+MARRIZ,- MARRIZ,TAG
+ECONIZ,- ECONIZ,TAG
+PGOV.IZ,- PGOV.IZ,TAG
+ASR,- ASR,TAG
+EIDN,- EIDN,TAG
+CHN,- CHN,TAG
+MURAD MAYA AND OMAR,- MURAD MAYA AND OMAR,TAG
+HYMPSK,- HYMPSK,TAG
+PMIN,- PMIN,TAG
+KIND,- KIND,TAG
+CFIS,- CFIS,TAG
+TF,- TF,TAG
+PELOSI,- PELOSI,TAG
+SOPN,- Social Affairs--Public Opinion and Information,TAG
+GS,- GS,TAG
+KWBW,- KWBW,TAG
+PHUMS,- PHUMS,TAG
+KWMNU,- KWMNU,TAG
+FK,- Falkland Islands (Islas Malvinas),TAG
+SMRT,- SMRT,TAG
+IAES,- IAES,TAG
+XQ,- Arctic Ocean Area,TAG
+SIPR,- SIPR,TAG
+ETIC,- ETIC,TAG
+ENRGMO,- ENRGMO,TAG
+EWWI,- EWWI,TAG
+PELOSI NANCY,- PELOSI NANCY,TAG
+KFLOA,- KFLOA,TAG
+TFFLU01:AEMR,- TFFLU01:AEMR,TAG
+RRB,- Railroad Retirement Board,TAG
+KBDS,- KBDS,TAG
+AFU,- AFU,TAG
+UNSCS,- UNSCS,TAG
+CHELIDZE ALEXANDER,- CHELIDZE ALEXANDER,TAG
+PRFE,- PRFE,TAG
+KMWN,- KMWN,TAG
+PARCA,- Pan American Railway Congress Association in Buenos Aires,TAG
+AEIR,- AEIR,TAG
+SENG,- SENG,TAG
+PMIG,- PMIG,TAG
+RSZ,- RSZ,TAG
+GIWI,- GIWI,TAG
+PGOT,- PGOT,TAG
+KLPM,- KLPM,TAG
+J,- Japan; Okinawa;,TAG
+NSG,- NSG,TAG
+KOGL,- Open Source and Gray Literature,TAG
+EEOC,- Equal Employment Opportunity Commission,TAG
+AOPR,- AOPR,TAG
+AREP,- AREP,TAG
+KFIU,- KFIU,TAG
+ERGR,- ERGR,TAG
+TREASURY,- TREASURY,TAG
+ISNV,- ISNV,TAG
+PREFA,- PREFA,TAG
+BLR,- BLR,TAG
+ZIM,- ZIM,TAG
+PTRD,- PTRD,TAG
+MIC,- MIC,TAG
+ECPC,- European Communist Party Conference,TAG
+PKBL,- PKBL,TAG
+KLAP,- KLAP,TAG
+EMW,- EMW,TAG
+PRELSP,- PRELSP,TAG
+ELA,- ELA,TAG
+UNA,- UNA,TAG
+KCRN,- KCRN,TAG
+STEINBERG JAMES B,- STEINBERG JAMES B,TAG
+PUBLIC,- PUBLIC,TAG
+SMI,- Smithsonian Institution,TAG
+PREL.SMIG,- PREL.SMIG,TAG
+UNRCCA,- UNRCCA,TAG
+COLLECTIVE,- COLLECTIVE,TAG
+AIT-T,- AIT-T,TAG
+IZPHUM,- IZPHUM,TAG
+EUREM,- EUREM,TAG
+KPTS,- KPTS,TAG
+ZX,- ZX,TAG
+PRF,- PRF,TAG
+EP,- European Parliament,TAG
+RICE SUSAN,- RICE SUSAN,TAG
+TCSENV,- TCSENV,TAG
+INTELSAT,- International Telecommunications Satellite Consortium,TAG
+PTERIS,- PTERIS,TAG
+ECON.PHUM,- ECON.PHUM,TAG
+EFIN.CH,- EFIN.CH,TAG
+TFHO1,- TFHO1,TAG
+KEN,- KEN,TAG
+ELB,- ELB,TAG
+KDRL,- KDRL,TAG
+KCRP,- KCRP,TAG
+UNFIYCP,- UNFIYCP,TAG
+ASC,- ASC,TAG
+PGOV.SF,- PGOV.SF,TAG
+MNUS,- MNUS,TAG
+PGPV,- PGPV,TAG
+KX,- KX,TAG
+KIVP,- KIVP,TAG
+AFDIN,- AFDIN,TAG
+PHUMR,- PHUMR,TAG
+BV,- Bouvet Island,TAG
+MJ,- MJ,TAG
+KOM,- KOM,TAG
+MTRE,- MTRE,TAG
+EEC,- European Common Market (European Communities); European Economic Community,TAG
+NEI,- NEI,TAG
+TFH01,- TFH01,TAG
+TRHO1,- TRHO1,TAG
+MED,- MED,TAG
+AEMED,- AEMED,TAG
+EWWC,- EWWC,TAG
+AFR,- AFR,TAG
+CPUOS,- CPUOS,TAG
+LINE,- LINE,TAG
+SYMBOL,- SYMBOL,TAG
+CPC,- UN Committee for Program and Coordination,TAG
+KPO,- KPO,TAG
+PBTSAG,- PBTSAG,TAG
+PMASS,- PMASS,TAG
+KERF,- KERF,TAG
+AORCO,- AORCO,TAG
+KHGH,- KHGH,TAG
+MASSZF,- MASSZF,TAG
+COMESA,- COMESA,TAG
+SACU,- SACU,TAG
+WAEMU,- WAEMU,TAG
+DCHA,- DCHA,TAG
+FPC,- Federal Power Commission,TAG
+EAP/MLS,- EAP/MLS,TAG
+EAP/MTS,- EAP/MTS,TAG
+EAP/RSP,- EAP/RSP,TAG
+MASSAF,- MASSAF,TAG
+EPIN,- EPIN,TAG
+PIND,- PIND,TAG
+ENRGUA,- ENRGUA,TAG
+AGRI,- AGRI,TAG
+KJUSKUNR,- KJUSKUNR,TAG
+PVPR,- PVPR,TAG
+EAGRE,- EAGRE,TAG
+MOTT,- MOTT,TAG
+PREL.IN,- PREL.IN,TAG
+LEW,- LEW,TAG
+UEU,- UEU,TAG
+KAUST,- KAUST,TAG
+BOEHNER JOHN,- BOEHNER JOHN,TAG
+SPILL,- SPILL,TAG
+KPER,- KPER,TAG
+CLINTON,- CLINTON,TAG
+KWWMN,- KWWMN,TAG
+KUS,- KUS,TAG
+KRCIM,- KRCIM,TAG
+WBEG,- WBEG,TAG
+OCSE,- OCSE,TAG
+FMC,- Federal Maritime Commission,TAG
+INRPAZ,- INRPAZ,TAG
+PECON,- PECON,TAG
+ABLDG,- ABLDG,TAG
+KIL,- KIL,TAG
+PL.CZ,- PL.CZ,TAG
+ICG,- ICG,TAG
+TSPAM,- TSPAM,TAG
+IMO.EWWT,- IMO.EWWT,TAG
+SECON,- SECON,TAG
+S/GPI,- S/GPI,TAG
+S/P,- S/P,TAG
+KUNA,- KUNA,TAG
+KDEMAF,- KDEMAF,TAG
+ABT,- ABT,TAG
+EEB,- EEB,TAG
+MTAA,- MTAA,TAG
+TPP,- TPP,TAG
+BECON,- BECON,TAG
+POGOV,- POGOV,TAG
+PBTSRU,- PBTSRU,TAG
+EISL,- EISL,TAG
+SMAR,- SMAR,TAG
+ETRED,- ETRED,TAG
+KNPR,- KNPR,TAG
+DB,- DB,TAG
+WADE KARIM,- WADE KARIM,TAG
+SERBIA,- SERBIA,TAG
+SAMA,- SAMA,TAG
+G-20,- G-20,TAG
+IEF,- IEF,TAG
+TBO,- TBO,TAG
+AUSTRALIAGROUP,- AUSTRALIAGROUP,TAG
+AVERY,- AVERY,TAG
+HRC,- United Nations Human Rights Commission,TAG
+SHANNON THOMAS,- SHANNON THOMAS,TAG
+XP,- Pacific Ocean Area,TAG
+BITO,- BITO,TAG
+THF01,- THF01,TAG
+MCAT,- MCAT,TAG
+UNP,- UNP,TAG
+SPAS,- SPAS,TAG
+KISR,- KISR,TAG
+IAII,- Inter-American Indian Institute,TAG
+ECONQH,- ECONQH,TAG
+ED,- Department of Education,TAG
+CWCM,- CWCM,TAG
+EV,- EV,TAG
+AK,- AK,TAG
+UNGA/C-F,- UNGA/C-F,TAG
+BIH,- BIH,TAG
+KGHGHIV,- KGHGHIV,TAG
+PKDEM,- PKDEM,TAG
+AER,- AER,TAG
+USAID/E&E,- USAID/E&E,TAG
+ETRDGK,- ETRDGK,TAG
+KINF,- KINF,TAG
+OPCR,- OPCR,TAG
+CAN,- CAN,TAG
+UB,- UB,TAG
+SH,- Ascension Island; Gough Island; Saint Helena; Tristan da Cunha,TAG
+PLEC,- PLEC,TAG
+SBA,- Small Business Administration,TAG
+ENGRG,- ENGRG,TAG
+PRELP,- PRELP,TAG
+EINR,- EINR,TAG
+AORCL,- AORCL,TAG
+KGICKS,- KGICKS,TAG
+UKXG,- UKXG,TAG
+EIFN,- EIFN,TAG
+CARC,- CARC,TAG
+UNSE,- UNSE,TAG
+PHIM,- PHIM,TAG
+ASES,- ASES,TAG
+ZXA,- ZXA,TAG
+CDI,- Christian Democratic International; Common Defense Installations,TAG
+PRELOV,- PRELOV,TAG
+ISTC,- ISTC,TAG
+DPAO,- DPAO,TAG
+BFIO,- BFIO,TAG
+KWKN,- KWKN,TAG
+G/TIP,- G/TIP,TAG
+NEA/RA,- NEA/RA,TAG
+JAT,- Serbian Airline (JAT Airways),TAG
+KNNPGM,- KNNPGM,TAG
+LEVINE JEFFREY D,- LEVINE JEFFREY D,TAG
+HDP,- HDP,TAG
+ETR,- ETR,TAG
+UNECE,- UNECE,TAG
+KMAC,- KMAC,TAG
+PKST,- PKST,TAG
+ETRP,- ETRP,TAG
+DCOM,- DCOM,TAG
+CLINTON HILARY,- CLINTON HILARY,TAG
+STP,- STP,TAG
+SIUK,- SIUK,TAG
+ISPL,- ISPL,TAG
+ECOM,- ECOM,TAG
+PTERDJ,- PTERDJ,TAG
+ISO,- International Sugar Organization,TAG
+NATOF,- NATOF,TAG
+WEET,- WEET,TAG
+ROK,- ROK,TAG
+SARB,- SARB,TAG
+KPMO,- KPMO,TAG
+RECIN,- RECIN,TAG
+SOSI,- SOSI,TAG
+NUC,- NATO-Ukraine Commission,TAG
+UNDEF,- UNDEF,TAG
+OPVIP,- OPVIP,TAG
+USCG,- USCG,TAG
+BSSR,- BSSR,TAG
+KCWI,- KCWI,TAG
+EWRG,- EWRG,TAG
+PINRTH,- PINRTH,TAG
+BURNS WILLIAM J,- BURNS WILLIAM J,TAG
+VXY,- VXY,TAG
+HUMOR,- HUMOR,TAG
+OVIP(BURNS,- OVIP(BURNS,TAG
+PTEP,- PTEP,TAG
+KPAOY,- KPAOY,TAG
+PROVE,- PROVE,TAG
+EGAR,- EGAR,TAG
+DC,- Christian Democratic Party in Italy,TAG
+GO,- Glorioso Islands,TAG
+EOCN,- EOCN,TAG
+PGREV,- PGREV,TAG
+CNAR,- CNAR,TAG
+KVIP,- KVIP,TAG
+PTR,- PTR,TAG
+ARENA,- Political Party in El Salvador,TAG
+FMLN,- Farabundo Marti Liberacion Nacional,TAG
+CQ,- Northern Mariana Islands,TAG
+UNIDCP,- UN International Drug Control Program,TAG
+AV,- Anguilla,TAG
+PHUMRU,- PHUMRU,TAG
+CONAWAY MICHAEL,- CONAWAY MICHAEL,TAG
+AAA,- American Automobile Association,TAG
+BBB,- BBB,TAG
+CCC,- Commodity Credit Corporation,TAG
+CPU,- CPU,TAG
+DDD,- DDD,TAG
+UNFF,- UNFF,TAG
+E.O.12958,- E.O.12958,TAG
+ELND,- ELND,TAG
+CARSON JOHNNIE,- CARSON JOHNNIE,TAG
+ODAG,- ODAG,TAG
+SGWI,- SGWI,TAG
+KEMR,- KEMR,TAG
+TRIO,- TRIO,TAG
+IF,- IF,TAG
+IRL,- IRL,TAG
+STAG,- STAG,TAG
+MRRR,- MRRR,TAG
+PARM.PINS,- PARM.PINS,TAG
+PINB,- PINB,TAG
+EFIM,- EFIM,TAG
+AP,- Associated Press,TAG
+KGKG,- KGKG,TAG
+KOCM,- KOCM,TAG
+SENU,- SENU,TAG
+KSMT,- KSMT,TAG
+PRELGOV,- PRELGOV,TAG
+KGH,- KGH,TAG
+TE,- Tromelin Island,TAG
+EX,- EX,TAG
+HUD,- Department of Housing and Urban Development,TAG
+KPAD,- KPAD,TAG
+KTSD,- Trilateral Strategic Dialogue,TAG
+MURRAY PATTY,- MURRAY PATTY,TAG
+PGOVAF,- PGOVAF,TAG
+OHCHR-1,- OHCHR-1,TAG
+ACTION,- ACTION,TAG
+PHUMHUPPS,- PHUMHUPPS,TAG
+KTNBT,- KTNBT,TAG
+END,- END,TAG
+SNRV,- SNRV,TAG
+AEGR,- AEGR,TAG
+PGOVECON,- PGOVECON,TAG
+LKDEM,- LKDEM,TAG
+G-LAURA,- G-LAURA,TAG
+TSY,- TSY,TAG
+EMS,- EMS,TAG
+POLUN,- POLUN,TAG
+UNCHS,- UN Commission on Human Settlements,TAG
+CND,- CND,TAG
+UNDOC,- UNDOC,TAG
+IRAS,- IRAS,TAG
+KTSC,- KTSC,TAG
+KUIR,- KUIR,TAG
+TSRY,- TSRY,TAG
+SIPRS,- SIPRS,TAG
+KRFR,- KRFR,TAG
+SWE,- SWE,TAG
+SNIG,- SNIG,TAG
+PCON,- PCON,TAG
+EAI,- EAI,TAG
+PARMP,- PARMP,TAG
+ENRC,- ENRC,TAG
+ENRL,- ENRL,TAG
+MARANTIS DEMETRIOS,- MARANTIS DEMETRIOS,TAG
+KPIN,- Political Internationals,TAG
+PARK,- PARK,TAG
+ISCA,- ISCA,TAG
+AORCD,- AORCD,TAG
+SSA,- Social Security Administration,TAG
+IEFIN,- IEFIN,TAG
+KTIAIC,- KTIAIC,TAG
+CNC,- CNC,TAG
+CITIBANK,- First National City Bank of New York,TAG
+TFHA01,- TFHA01,TAG
+INR/REA,- INR/REA,TAG
+PSTRONSKI,- PSTRONSKI,TAG
+PICES,- North Pacific Marine Science Organization,TAG
+PMDL,- PMDL,TAG
+KDEM.HO,- KDEM.HO,TAG
+GOVPOI,- GOVPOI,TAG
+CMGMT,- CMGMT,TAG
+EFINU,- EFINU,TAG
+NMFS,- National Marine Fisheries Services,TAG
+ETA,- Basque Terrorist Group,TAG
