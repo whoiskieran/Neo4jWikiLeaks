@@ -1,1 +1,1 @@
-originalID:ID,canonicalID,name,textdate,isodate,OrigClassif,CurClassif,charcount,cabletype,officeorigin,officeaction,:LABEL
+originalID:ID,canonicalID,name,textdate,isodate:LOCALDATETIME,OrigClassif,CurClassif,charcount,cabletype,officeorigin,officeaction,:LABEL
